@@ -1,0 +1,2819 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": 0,
+      "group": "Navigation / Header",
+      "tag": "a",
+      "en": "Skip to content",
+      "ar": "الانتقال إلى المحتوى"
+    },
+    {
+      "id": 1,
+      "group": "Navigation / Header",
+      "tag": "button",
+      "en": "Menu ☰",
+      "ar": "القائمة ☰"
+    },
+    {
+      "id": 2,
+      "group": "Navigation / Header",
+      "tag": "a",
+      "en": "Home",
+      "ar": "الرئيسية"
+    },
+    {
+      "id": 3,
+      "group": "Navigation / Header",
+      "tag": "a",
+      "en": "About",
+      "ar": "نبذة"
+    },
+    {
+      "id": 4,
+      "group": "Navigation / Header",
+      "tag": "a",
+      "en": "Expertise",
+      "ar": "الخبرات"
+    },
+    {
+      "id": 5,
+      "group": "Navigation / Header",
+      "tag": "a",
+      "en": "Projects",
+      "ar": "المشاريع"
+    },
+    {
+      "id": 6,
+      "group": "Navigation / Header",
+      "tag": "a",
+      "en": "AI Governance",
+      "ar": "حوكمة الذكاء الاصطناعي"
+    },
+    {
+      "id": 7,
+      "group": "Navigation / Header",
+      "tag": "a",
+      "en": "Leadership",
+      "ar": "القيادة"
+    },
+    {
+      "id": 8,
+      "group": "Navigation / Header",
+      "tag": "a",
+      "en": "Credentials",
+      "ar": "الشهادات"
+    },
+    {
+      "id": 9,
+      "group": "Navigation / Header",
+      "tag": "a",
+      "en": "Contact",
+      "ar": "التواصل"
+    },
+    {
+      "id": 10,
+      "group": "Navigation / Header",
+      "tag": "div",
+      "en": "Executive portfolio · Dubai, UAE",
+      "ar": "الملف المهني التنفيذي · دبي، الإمارات"
+    },
+    {
+      "id": 11,
+      "group": "Navigation / Header",
+      "tag": "span",
+      "en": "Mohamed",
+      "ar": "محمد"
+    },
+    {
+      "id": 12,
+      "group": "Navigation / Header",
+      "tag": "em",
+      "en": "Shalabi.",
+      "ar": "شلبي."
+    },
+    {
+      "id": 13,
+      "group": "Navigation / Header",
+      "tag": "p",
+      "en": "PMO & Digital Governance Lead | Program & Portfolio Management | Digital Transformation | IT & AI Governance",
+      "ar": "قائد مكتب إدارة المشاريع والحوكمة الرقمية | إدارة البرامج والمحافظ | التحول الرقمي | حوكمة تقنية المعلومات والذكاء الاصطناعي"
+    },
+    {
+      "id": 14,
+      "group": "Navigation / Header",
+      "tag": "p",
+      "en": "Connecting enterprise strategy, governance and technology delivery to measurable business outcomes — with a practical focus on responsible AI, risk and organizational accountability.",
+      "ar": "أربط الاستراتيجية المؤسسية والحوكمة وتسليم الحلول التقنية بنتائج أعمال قابلة للقياس، مع التركيز على الذكاء الاصطناعي المسؤول وإدارة المخاطر والمساءلة المؤسسية."
+    },
+    {
+      "id": 15,
+      "group": "Navigation / Header",
+      "tag": "a",
+      "en": "Explore Selected Work ↗",
+      "ar": "استعرض أبرز الأعمال ↗"
+    },
+    {
+      "id": 16,
+      "group": "Navigation / Header",
+      "tag": "a",
+      "en": "LinkedIn Profile ↗",
+      "ar": "حساب LinkedIn ↗"
+    },
+    {
+      "id": 17,
+      "group": "Navigation / Header",
+      "tag": "a",
+      "en": "Download CV (PDF) ↗",
+      "ar": "تحميل السيرة الذاتية (PDF) ↗"
+    },
+    {
+      "id": 18,
+      "group": "Navigation / Header",
+      "tag": "a",
+      "en": "Explore all 15 projects ↗",
+      "ar": "استعرض المشاريع الـ15 ↗"
+    },
+    {
+      "id": 19,
+      "group": "Navigation / Header",
+      "tag": "span",
+      "en": "Dubai, United Arab Emirates",
+      "ar": "دبي، الإمارات العربية المتحدة"
+    },
+    {
+      "id": 20,
+      "group": "Navigation / Header",
+      "tag": "span",
+      "en": "Years — Professional Experience",
+      "ar": "عاماً — من الخبرة المهنية"
+    },
+    {
+      "id": 21,
+      "group": "Navigation / Header",
+      "tag": "span",
+      "en": "Years — UAE Experience",
+      "ar": "عاماً — من الخبرة في دولة الإمارات"
+    },
+    {
+      "id": 22,
+      "group": "Navigation / Header",
+      "tag": "span",
+      "en": "Technology portfolio managed",
+      "ar": "محفظة تقنية تمت إدارتها"
+    },
+    {
+      "id": 23,
+      "group": "Navigation / Header",
+      "tag": "span",
+      "en": "Governance leadership focus",
+      "ar": "محاور القيادة في الحوكمة"
+    },
+    {
+      "id": 24,
+      "group": "Navigation / Header",
+      "tag": "strong",
+      "en": "MS / EXECUTIVE GOVERNANCE CONSOLE",
+      "ar": "MS / لوحة القيادة والحوكمة التنفيذية"
+    },
+    {
+      "id": 25,
+      "group": "Navigation / Header",
+      "tag": "span",
+      "en": "PORTFOLIO VIEW",
+      "ar": "عرض المحفظة"
+    },
+    {
+      "id": 26,
+      "group": "Navigation / Header",
+      "tag": "div",
+      "en": "Explore leadership capabilities · Select a focus area",
+      "ar": "استكشف القدرات القيادية · اختر مجال التركيز"
+    },
+    {
+      "id": 27,
+      "group": "Navigation / Header",
+      "tag": "button",
+      "en": "PMO",
+      "ar": "مكتب إدارة المشاريع"
+    },
+    {
+      "id": 28,
+      "group": "Navigation / Header",
+      "tag": "button",
+      "en": "Transformation",
+      "ar": "التحول الرقمي"
+    },
+    {
+      "id": 29,
+      "group": "Navigation / Header",
+      "tag": "button",
+      "en": "Responsible AI",
+      "ar": "الذكاء الاصطناعي المسؤول"
+    },
+    {
+      "id": 30,
+      "group": "Navigation / Header",
+      "tag": "button",
+      "en": "Risk & Assurance",
+      "ar": "المخاطر والتوكيد"
+    },
+    {
+      "id": 31,
+      "group": "Navigation / Header",
+      "tag": "h3",
+      "en": "Portfolio governance, made actionable.",
+      "ar": "حوكمة المحافظ تتحول إلى إجراءات قابلة للتنفيذ."
+    },
+    {
+      "id": 34,
+      "group": "Navigation / Header",
+      "tag": "div",
+      "en": "SELECT A CAPABILITY · VIEW EVIDENCE · EXPLORE DELIVERY",
+      "ar": "اختر القدرة · استعرض الأدلة · تعرف على التنفيذ"
+    },
+    {
+      "id": 35,
+      "group": "executive-overview",
+      "tag": "div",
+      "en": "EXECUTIVE PORTFOLIO · AT A GLANCE",
+      "ar": "الملف التنفيذي · نظرة شاملة"
+    },
+    {
+      "id": 36,
+      "group": "executive-overview",
+      "tag": "h2",
+      "en": "Governance. Transformation. Impact.",
+      "ar": "حوكمة فاعلة. تحول مؤسسي. أثر ملموس."
+    },
+    {
+      "id": 37,
+      "group": "executive-overview",
+      "tag": "a",
+      "en": "Explore all 15 projects ↗",
+      "ar": "استعرض المشاريع الـ15 ↗"
+    },
+    {
+      "id": 38,
+      "group": "executive-overview",
+      "tag": "h3",
+      "en": "Featured Projects",
+      "ar": "أبرز المشاريع"
+    },
+    {
+      "id": 39,
+      "group": "executive-overview",
+      "tag": "a",
+      "en": "Microsoft Cloud Modernization ↗",
+      "ar": "تحديث بيئة Microsoft السحابية ↗"
+    },
+    {
+      "id": 40,
+      "group": "executive-overview",
+      "tag": "a",
+      "en": "SAP Business One ERP Transformation ↗",
+      "ar": "التحول إلى نظام SAP Business One ↗"
+    },
+    {
+      "id": 41,
+      "group": "executive-overview",
+      "tag": "a",
+      "en": "Enterprise PMO & Digital Governance ↗",
+      "ar": "حوكمة مكتب إدارة المشاريع والتحول الرقمي ↗"
+    },
+    {
+      "id": 42,
+      "group": "executive-overview",
+      "tag": "h3",
+      "en": "Responsible AI Governance",
+      "ar": "حوكمة الذكاء الاصطناعي المسؤول"
+    },
+    {
+      "id": 43,
+      "group": "executive-overview",
+      "tag": "p",
+      "en": "Practical governance of AI adoption through policy, risk controls, decision rights and human oversight.",
+      "ar": "حوكمة عملية لتبنّي الذكاء الاصطناعي عبر السياسات وضوابط المخاطر وصلاحيات اتخاذ القرار والإشراف البشري."
+    },
+    {
+      "id": 44,
+      "group": "executive-overview",
+      "tag": "a",
+      "en": "Explore AI governance ↗",
+      "ar": "استعرض حوكمة الذكاء الاصطناعي ↗"
+    },
+    {
+      "id": 45,
+      "group": "executive-overview",
+      "tag": "h3",
+      "en": "Credentials & Leadership",
+      "ar": "الشهادات والخبرات القيادية"
+    },
+    {
+      "id": 46,
+      "group": "executive-overview",
+      "tag": "a",
+      "en": "View credentials ↗",
+      "ar": "استعرض الشهادات ↗"
+    },
+    {
+      "id": 47,
+      "group": "about",
+      "tag": "div",
+      "en": "Executive profile",
+      "ar": "الملف التنفيذي"
+    },
+    {
+      "id": 48,
+      "group": "about",
+      "tag": "h2",
+      "en": "Governance that enables delivery.",
+      "ar": "حوكمة تمكّن التنفيذ."
+    },
+    {
+      "id": 49,
+      "group": "about",
+      "tag": "p",
+      "en": "I lead PMO and digital governance initiatives across portfolio oversight, risk and change management, IT service governance, executive reporting, budgeting, audit coordination and enterprise technology transformation. My approach combines disciplined controls with practical execution: making priorities visible, decisions traceable and outcomes measurable.",
+      "ar": "أقود مبادرات مكتب إدارة المشاريع والحوكمة الرقمية، بما يشمل الإشراف على المحافظ، وإدارة المخاطر والتغيير، وحوكمة خدمات تقنية المعلومات، والتقارير التنفيذية، وإعداد الموازنات ومتابعتها، والتنسيق لأعمال التدقيق، وبرامج التحول التقني المؤسسي. أركز على تطبيق ضوابط حوكمة واضحة تدعم التنفيذ العملي، وتُظهر الأولويات، وتضمن إمكانية تتبع القرارات وقياس النتائج."
+    },
+    {
+      "id": 50,
+      "group": "about",
+      "tag": "div",
+      "en": "01 / ALIGN",
+      "ar": "01 / المواءمة"
+    },
+    {
+      "id": 51,
+      "group": "about",
+      "tag": "h3",
+      "en": "Strategy & portfolio",
+      "ar": "الاستراتيجية والمحفظة"
+    },
+    {
+      "id": 52,
+      "group": "about",
+      "tag": "p",
+      "en": "Translate organizational priorities into governed initiatives, transparent reporting and informed investment decisions.",
+      "ar": "تحويل أولويات المؤسسة إلى مبادرات محكومة وتقارير شفافة وقرارات استثمار مدروسة."
+    },
+    {
+      "id": 53,
+      "group": "about",
+      "tag": "div",
+      "en": "02 / CONTROL",
+      "ar": "02 / الضبط"
+    },
+    {
+      "id": 54,
+      "group": "about",
+      "tag": "h3",
+      "en": "Risk & accountability",
+      "ar": "المخاطر والمساءلة"
+    },
+    {
+      "id": 55,
+      "group": "about",
+      "tag": "p",
+      "en": "Establish policy, approval workflows, risk ownership, change controls and audit-ready decision trails.",
+      "ar": "وضع السياسات ومسارات الموافقات وملكية المخاطر وضوابط التغيير ومسارات قرارات قابلة للتدقيق."
+    },
+    {
+      "id": 56,
+      "group": "about",
+      "tag": "div",
+      "en": "03 / DELIVER",
+      "ar": "03 / التنفيذ"
+    },
+    {
+      "id": 57,
+      "group": "about",
+      "tag": "h3",
+      "en": "Transformation outcomes",
+      "ar": "نتائج التحول"
+    },
+    {
+      "id": 58,
+      "group": "about",
+      "tag": "p",
+      "en": "Coordinate enterprise platforms, cloud modernization and operational improvement across business and IT teams.",
+      "ar": "تنسيق المنصات المؤسسية والتحديث السحابي والتحسين التشغيلي بين فرق الأعمال وتقنية المعلومات."
+    },
+    {
+      "id": 59,
+      "group": "expertise",
+      "tag": "div",
+      "en": "Core capabilities",
+      "ar": "القدرات الأساسية"
+    },
+    {
+      "id": 60,
+      "group": "expertise",
+      "tag": "h2",
+      "en": "Leadership across the delivery lifecycle.",
+      "ar": "قيادة عبر دورة حياة التنفيذ."
+    },
+    {
+      "id": 61,
+      "group": "expertise",
+      "tag": "h3",
+      "en": "PMO & Portfolio Governance",
+      "ar": "حوكمة مكتب إدارة المشاريع والمحافظ"
+    },
+    {
+      "id": 62,
+      "group": "expertise",
+      "tag": "p",
+      "en": "Portfolio oversight, stage gates, RAID, executive KPIs, benefits tracking and decision governance.",
+      "ar": "الرقابة على المحافظ وبوابات المراحل وسجلات RAID والمؤشرات التنفيذية وتتبع المنافع وحوكمة القرارات."
+    },
+    {
+      "id": 63,
+      "group": "expertise",
+      "tag": "h3",
+      "en": "Digital Transformation",
+      "ar": "التحول الرقمي"
+    },
+    {
+      "id": 64,
+      "group": "expertise",
+      "tag": "p",
+      "en": "Enterprise platforms, cloud modernization, ERP, workflow automation and business–IT alignment.",
+      "ar": "المنصات المؤسسية والتحديث السحابي وأنظمة ERP وأتمتة سير العمل ومواءمة الأعمال والتقنية."
+    },
+    {
+      "id": 65,
+      "group": "expertise",
+      "tag": "h3",
+      "en": "IT Governance & ITSM",
+      "ar": "حوكمة تقنية المعلومات وإدارة خدماتها"
+    },
+    {
+      "id": 66,
+      "group": "expertise",
+      "tag": "p",
+      "en": "Incident, problem, change, CAB/eCAB, service controls, SLAs, policies and audit readiness.",
+      "ar": "الحوادث والمشكلات والتغيير ولجان CAB/eCAB وضوابط الخدمات واتفاقيات المستوى والسياسات والاستعداد للتدقيق."
+    },
+    {
+      "id": 67,
+      "group": "expertise",
+      "tag": "h3",
+      "en": "AI Governance & Responsible AI",
+      "ar": "حوكمة الذكاء الاصطناعي والذكاء الاصطناعي المسؤول"
+    },
+    {
+      "id": 68,
+      "group": "expertise",
+      "tag": "p",
+      "en": "AI policy development, risk-based controls, oversight, accountability and organizational readiness.",
+      "ar": "تطوير سياسات الذكاء الاصطناعي والضوابط المبنية على المخاطر والرقابة والمساءلة والجاهزية المؤسسية."
+    },
+    {
+      "id": 69,
+      "group": "expertise",
+      "tag": "h3",
+      "en": "Program & Change Leadership",
+      "ar": "قيادة البرامج والتغيير"
+    },
+    {
+      "id": 70,
+      "group": "expertise",
+      "tag": "p",
+      "en": "Cross-functional coordination, stakeholder alignment, delivery assurance and controlled change.",
+      "ar": "التنسيق بين الفرق ومواءمة أصحاب المصلحة وضمان التسليم والتغيير المنضبط."
+    },
+    {
+      "id": 71,
+      "group": "expertise",
+      "tag": "h3",
+      "en": "Financial & Vendor Governance",
+      "ar": "الحوكمة المالية وحوكمة الموردين"
+    },
+    {
+      "id": 72,
+      "group": "expertise",
+      "tag": "p",
+      "en": "Technology budgets, cost oversight, procurement coordination, vendor management and performance reporting.",
+      "ar": "موازنات التقنية والرقابة على التكاليف وتنسيق المشتريات وإدارة الموردين وتقارير الأداء."
+    },
+    {
+      "id": 73,
+      "group": "projects",
+      "tag": "div",
+      "en": "Selected work / complete portfolio",
+      "ar": "أبرز الأعمال / المحفظة الكاملة"
+    },
+    {
+      "id": 74,
+      "group": "projects",
+      "tag": "h2",
+      "en": "15 initiatives. One connected leadership story.",
+      "ar": "15 مبادرة. مسيرة قيادية مترابطة."
+    },
+    {
+      "id": 75,
+      "group": "projects",
+      "tag": "p",
+      "en": "From enterprise governance and ERP to digital services, cloud and infrastructure. Every initiative remains available — filter, search, or open a case study to explore the scope, role and delivery focus.",
+      "ar": "من الحوكمة المؤسسية وأنظمة تخطيط موارد المؤسسة إلى الخدمات الرقمية والحوسبة السحابية والبنية التحتية. جميع المشاريع الخمسة عشر متاحة؛ استخدم البحث والتصنيف أو افتح المشروع للاطلاع على تفاصيله."
+    },
+    {
+      "id": 76,
+      "group": "projects",
+      "tag": "span",
+      "en": "15 PROJECTS",
+      "ar": "15 مشروعًا"
+    },
+    {
+      "id": 77,
+      "group": "projects",
+      "tag": "h3",
+      "en": "Featured case studies",
+      "ar": "أبرز دراسات الحالة"
+    },
+    {
+      "id": 78,
+      "group": "projects",
+      "tag": "p",
+      "en": "Start with three representative initiatives, or browse the complete 15-project portfolio below.",
+      "ar": "ابدأ بثلاث مبادرات تمثل مجالات خبرتي، أو استعرض المحفظة الكاملة المكونة من 15 مشروعًا أدناه."
+    },
+    {
+      "id": 79,
+      "group": "projects",
+      "tag": "strong",
+      "en": "Enterprise PMO & Digital Governance Transformation",
+      "ar": "تحول حوكمة مكتب إدارة المشاريع والحوكمة الرقمية"
+    },
+    {
+      "id": 80,
+      "group": "projects",
+      "tag": "span",
+      "en": "VIEW CASE STUDY ↗",
+      "ar": "عرض دراسة الحالة ↗"
+    },
+    {
+      "id": 81,
+      "group": "projects",
+      "tag": "strong",
+      "en": "Enterprise Management & Governance Portal (EMGP)",
+      "ar": "بوابة الإدارة والحوكمة المؤسسية (EMGP)"
+    },
+    {
+      "id": 82,
+      "group": "projects",
+      "tag": "span",
+      "en": "VIEW CASE STUDY ↗",
+      "ar": "عرض دراسة الحالة ↗"
+    },
+    {
+      "id": 83,
+      "group": "projects",
+      "tag": "strong",
+      "en": "SAP Business One ERP Transformation",
+      "ar": "التحول إلى نظام SAP Business One ERP"
+    },
+    {
+      "id": 84,
+      "group": "projects",
+      "tag": "span",
+      "en": "VIEW CASE STUDY ↗",
+      "ar": "عرض دراسة الحالة ↗"
+    },
+    {
+      "id": 85,
+      "group": "projects",
+      "tag": "span",
+      "en": "All",
+      "ar": "الكل"
+    },
+    {
+      "id": 86,
+      "group": "projects",
+      "tag": "button",
+      "en": "Governance",
+      "ar": "الحوكمة"
+    },
+    {
+      "id": 87,
+      "group": "projects",
+      "tag": "button",
+      "en": "Enterprise",
+      "ar": "الأنظمة المؤسسية"
+    },
+    {
+      "id": 88,
+      "group": "projects",
+      "tag": "button",
+      "en": "Cloud",
+      "ar": "السحابة"
+    },
+    {
+      "id": 89,
+      "group": "projects",
+      "tag": "button",
+      "en": "Payments",
+      "ar": "المدفوعات"
+    },
+    {
+      "id": 90,
+      "group": "projects",
+      "tag": "button",
+      "en": "Digital platforms",
+      "ar": "المنصات الرقمية"
+    },
+    {
+      "id": 91,
+      "group": "projects",
+      "tag": "button",
+      "en": "Infrastructure",
+      "ar": "البنية التحتية"
+    },
+    {
+      "id": 92,
+      "group": "projects",
+      "tag": "span",
+      "en": "Find an initiative",
+      "ar": "ابحث عن مبادرة"
+    },
+    {
+      "id": 93,
+      "group": "projects",
+      "tag": "p",
+      "en": "Showing all 15 initiatives",
+      "ar": "عرض المبادرات الـ15"
+    },
+    {
+      "id": 94,
+      "group": "enterprise pmo & digital governance transformation leading the de",
+      "tag": "span",
+      "en": "01 / GOVERNANCE",
+      "ar": "01 / الحوكمة"
+    },
+    {
+      "id": 95,
+      "group": "enterprise pmo & digital governance transformation leading the de",
+      "tag": "span",
+      "en": "ENTERPRISE GOVERNANCE · DEC 2024–PRESENT",
+      "ar": "حوكمة مؤسسية · DEC 2024–PRESENT"
+    },
+    {
+      "id": 96,
+      "group": "enterprise pmo & digital governance transformation leading the de",
+      "tag": "h3",
+      "en": "Enterprise PMO & Digital Governance Transformation",
+      "ar": "تحول حوكمة مكتب إدارة المشاريع والحوكمة الرقمية"
+    },
+    {
+      "id": 97,
+      "group": "enterprise pmo & digital governance transformation leading the de",
+      "tag": "div",
+      "en": "MY ROLE · PMO & Digital Governance Lead",
+      "ar": "قائد مكتب إدارة المشاريع والحوكمة الرقمية"
+    },
+    {
+      "id": 98,
+      "group": "enterprise pmo & digital governance transformation leading the de",
+      "tag": "p",
+      "en": "Leading the development of an integrated PMO and digital governance operating model, including governance policies, portfolio controls, risk and change registers, executive reporting and audit-readiness practices.",
+      "ar": "أقود تطوير نموذج تشغيل متكامل لمكتب إدارة المشاريع والحوكمة الرقمية، يشمل السياسات وضوابط المحافظ وسجلات المخاطر والتغيير والتقارير التنفيذية والاستعداد للتدقيق."
+    },
+    {
+      "id": 99,
+      "group": "enterprise pmo & digital governance transformation leading the de",
+      "tag": "summary",
+      "en": "Explore project details",
+      "ar": "استعرض تفاصيل المشروع"
+    },
+    {
+      "id": 100,
+      "group": "enterprise pmo & digital governance transformation leading the de",
+      "tag": "p",
+      "en": "Delivery focus · Designed governance workflows, approval controls and reporting frameworks; coordinated stakeholders across applications, infrastructure and business functions.",
+      "ar": "محور التنفيذ · صممت مسارات عمل الحوكمة وضوابط الموافقات وأطر التقارير، ونسقت مع أصحاب المصلحة في التطبيقات والبنية التحتية والإدارات المعنية."
+    },
+    {
+      "id": 101,
+      "group": "enterprise pmo & digital governance transformation leading the de",
+      "tag": "strong",
+      "en": "Delivery focus ·",
+      "ar": "محور التنفيذ ·"
+    },
+    {
+      "id": 102,
+      "group": "enterprise pmo & digital governance transformation leading the de",
+      "tag": "p",
+      "en": "Outcome / current status · Established a structured foundation for portfolio oversight, governance accountability and management decision support.",
+      "ar": "النتيجة / الحالة الحالية · إرساء أساس منظم للرقابة على المحافظ والمساءلة ودعم قرارات الإدارة."
+    },
+    {
+      "id": 103,
+      "group": "enterprise pmo & digital governance transformation leading the de",
+      "tag": "strong",
+      "en": "Outcome / current status ·",
+      "ar": "النتيجة / الحالة الحالية ·"
+    },
+    {
+      "id": 104,
+      "group": "enterprise pmo & digital governance transformation leading the de",
+      "tag": "span",
+      "en": "PMO",
+      "ar": "مكتب إدارة المشاريع"
+    },
+    {
+      "id": 105,
+      "group": "enterprise pmo & digital governance transformation leading the de",
+      "tag": "span",
+      "en": "IT Governance",
+      "ar": "حوكمة تقنية المعلومات"
+    },
+    {
+      "id": 106,
+      "group": "enterprise pmo & digital governance transformation leading the de",
+      "tag": "span",
+      "en": "Portfolio",
+      "ar": "المحافظ"
+    },
+    {
+      "id": 107,
+      "group": "enterprise management & governance portal (emgp) leading phased d",
+      "tag": "span",
+      "en": "02 / GOVERNANCE",
+      "ar": "02 / الحوكمة"
+    },
+    {
+      "id": 108,
+      "group": "enterprise management & governance portal (emgp) leading phased d",
+      "tag": "span",
+      "en": "PRODUCT DEVELOPMENT · IN PROGRESS",
+      "ar": "تطوير منتج · قيد التطوير"
+    },
+    {
+      "id": 109,
+      "group": "enterprise management & governance portal (emgp) leading phased d",
+      "tag": "h3",
+      "en": "Enterprise Management & Governance Portal (EMGP)",
+      "ar": "بوابة الإدارة والحوكمة المؤسسية (EMGP)"
+    },
+    {
+      "id": 110,
+      "group": "enterprise management & governance portal (emgp) leading phased d",
+      "tag": "div",
+      "en": "MY ROLE · Product direction, requirements and delivery oversight",
+      "ar": "توجيه المنتج والمتطلبات والإشراف على التنفيذ"
+    },
+    {
+      "id": 111,
+      "group": "enterprise management & governance portal (emgp) leading phased d",
+      "tag": "p",
+      "en": "Leading phased development of a bilingual governance portal using Python, Streamlit and SQLite, with role-based permissions, executive overview, decision register and audit controls.",
+      "ar": "أقود التطوير المرحلي لبوابة حوكمة ثنائية اللغة باستخدام Python وStreamlit وSQLite، تشمل صلاحيات الأدوار ولوحة تنفيذية وسجل القرارات وضوابط التدقيق."
+    },
+    {
+      "id": 112,
+      "group": "enterprise management & governance portal (emgp) leading phased d",
+      "tag": "summary",
+      "en": "Explore project details",
+      "ar": "استعرض تفاصيل المشروع"
+    },
+    {
+      "id": 113,
+      "group": "enterprise management & governance portal (emgp) leading phased d",
+      "tag": "p",
+      "en": "Delivery focus · Defined roadmap and acceptance criteria; coordinated development and validation of the initial foundation. Future modules cover risk, change, portfolio and audit governance.",
+      "ar": "محور التنفيذ · تحديد خارطة الطريق ومعايير القبول، وتنسيق تطوير الأساس الأولي والتحقق منه. وتشمل المراحل اللاحقة حوكمة المخاطر والتغيير والمحافظ والتدقيق."
+    },
+    {
+      "id": 114,
+      "group": "enterprise management & governance portal (emgp) leading phased d",
+      "tag": "strong",
+      "en": "Delivery focus ·",
+      "ar": "محور التنفيذ ·"
+    },
+    {
+      "id": 115,
+      "group": "enterprise management & governance portal (emgp) leading phased d",
+      "tag": "p",
+      "en": "Outcome / current status · Initial portal foundation validated; enterprise multi-user deployment, concurrency hardening and further development remain in progress.",
+      "ar": "النتيجة / الحالة الحالية · تم التحقق من الأساس الأولي للبوابة، ولا يزال النشر المؤسسي متعدد المستخدمين وتعزيز التزامن والتطوير الإضافي قيد العمل."
+    },
+    {
+      "id": 116,
+      "group": "enterprise management & governance portal (emgp) leading phased d",
+      "tag": "strong",
+      "en": "Outcome / current status ·",
+      "ar": "النتيجة / الحالة الحالية ·"
+    },
+    {
+      "id": 117,
+      "group": "enterprise management & governance portal (emgp) leading phased d",
+      "tag": "span",
+      "en": "RBAC",
+      "ar": "صلاحيات الأدوار"
+    },
+    {
+      "id": 118,
+      "group": "enterprise management & governance portal (emgp) leading phased d",
+      "tag": "span",
+      "en": "Audit Integrity",
+      "ar": "سلامة التدقيق"
+    },
+    {
+      "id": 119,
+      "group": "smart donation kiosks managed a self-service donation kiosk initi",
+      "tag": "span",
+      "en": "03 / PAYMENTS",
+      "ar": "03 / المدفوعات"
+    },
+    {
+      "id": 120,
+      "group": "smart donation kiosks managed a self-service donation kiosk initi",
+      "tag": "span",
+      "en": "REGULATED DIGITAL SERVICES",
+      "ar": "خدمات رقمية منظمة"
+    },
+    {
+      "id": 121,
+      "group": "smart donation kiosks managed a self-service donation kiosk initi",
+      "tag": "h3",
+      "en": "Smart Donation Kiosks",
+      "ar": "أكشاك التبرع الذكية"
+    },
+    {
+      "id": 122,
+      "group": "smart donation kiosks managed a self-service donation kiosk initi",
+      "tag": "div",
+      "en": "MY ROLE · Project and multi-party stakeholder management",
+      "ar": "إدارة المشروع وتنسيق الأطراف المعنية"
+    },
+    {
+      "id": 123,
+      "group": "smart donation kiosks managed a self-service donation kiosk initi",
+      "tag": "p",
+      "en": "Managed a self-service donation kiosk initiative delivered in response to regulatory requirements of Dubai’s Islamic Affairs and Charitable Activities Department (IACAD).",
+      "ar": "أدرت مبادرة أكشاك التبرع ذاتية الخدمة استجابة للمتطلبات التنظيمية لدائرة الشؤون الإسلامية والعمل الخيري بدبي."
+    },
+    {
+      "id": 124,
+      "group": "smart donation kiosks managed a self-service donation kiosk initi",
+      "tag": "summary",
+      "en": "Explore project details",
+      "ar": "استعرض تفاصيل المشروع"
+    },
+    {
+      "id": 125,
+      "group": "smart donation kiosks managed a self-service donation kiosk initi",
+      "tag": "p",
+      "en": "Delivery focus · Coordinated banking contractual arrangements, payment terminals, manufacturers, telecom connectivity and cloud/infrastructure readiness.",
+      "ar": "محور التنفيذ · تنسيق الاتفاقيات المصرفية وأجهزة الدفع والمصنعين واتصالات الاتصالات وجاهزية السحابة والبنية التحتية."
+    },
+    {
+      "id": 126,
+      "group": "smart donation kiosks managed a self-service donation kiosk initi",
+      "tag": "strong",
+      "en": "Delivery focus ·",
+      "ar": "محور التنفيذ ·"
+    },
+    {
+      "id": 127,
+      "group": "smart donation kiosks managed a self-service donation kiosk initi",
+      "tag": "p",
+      "en": "Outcome / current status · Connected regulatory, payment and technical delivery requirements in one coordinated program.",
+      "ar": "النتيجة / الحالة الحالية · توحيد المتطلبات التنظيمية ومتطلبات الدفع والتسليم التقني ضمن برنامج منسق."
+    },
+    {
+      "id": 128,
+      "group": "smart donation kiosks managed a self-service donation kiosk initi",
+      "tag": "strong",
+      "en": "Outcome / current status ·",
+      "ar": "النتيجة / الحالة الحالية ·"
+    },
+    {
+      "id": 129,
+      "group": "smart donation kiosks managed a self-service donation kiosk initi",
+      "tag": "span",
+      "en": "Banking",
+      "ar": "الخدمات المصرفية"
+    },
+    {
+      "id": 130,
+      "group": "smart donation kiosks managed a self-service donation kiosk initi",
+      "tag": "span",
+      "en": "Regulatory",
+      "ar": "التنظيم والامتثال"
+    },
+    {
+      "id": 131,
+      "group": "smart donation kiosks managed a self-service donation kiosk initi",
+      "tag": "span",
+      "en": "Kiosks",
+      "ar": "الأكشاك"
+    },
+    {
+      "id": 132,
+      "group": "sap business one erp transformation managed delivery coordination",
+      "tag": "span",
+      "en": "04 / ENTERPRISE",
+      "ar": "04 / الأنظمة المؤسسية"
+    },
+    {
+      "id": 133,
+      "group": "sap business one erp transformation managed delivery coordination",
+      "tag": "span",
+      "en": "ERP & PAYMENTS",
+      "ar": "الأنظمة المؤسسية والمدفوعات"
+    },
+    {
+      "id": 134,
+      "group": "sap business one erp transformation managed delivery coordination",
+      "tag": "h3",
+      "en": "SAP Business One ERP Transformation",
+      "ar": "التحول إلى نظام SAP Business One ERP"
+    },
+    {
+      "id": 135,
+      "group": "sap business one erp transformation managed delivery coordination",
+      "tag": "div",
+      "en": "MY ROLE · Project delivery leadership and vendor coordination",
+      "ar": "قيادة تسليم المشروع وتنسيق الموردين"
+    },
+    {
+      "id": 136,
+      "group": "sap business one erp transformation managed delivery coordination",
+      "tag": "p",
+      "en": "Managed delivery coordination for the transition from Microsoft Dynamics GP to SAP Business One, including payment integrations involving Telr and DubaiPay.",
+      "ar": "أدرت تنسيق الانتقال من Microsoft Dynamics GP إلى SAP Business One، بما في ذلك تكاملات الدفع مع Telr وDubaiPay."
+    },
+    {
+      "id": 137,
+      "group": "sap business one erp transformation managed delivery coordination",
+      "tag": "summary",
+      "en": "Explore project details",
+      "ar": "استعرض تفاصيل المشروع"
+    },
+    {
+      "id": 138,
+      "group": "sap business one erp transformation managed delivery coordination",
+      "tag": "p",
+      "en": "Delivery focus · Coordinated finance, application teams, payment partners and vendors across requirements, testing and deployment readiness.",
+      "ar": "محور التنفيذ · تنسيق فرق المالية والتطبيقات وشركاء الدفع والموردين عبر المتطلبات والاختبارات والاستعداد للإطلاق."
+    },
+    {
+      "id": 139,
+      "group": "sap business one erp transformation managed delivery coordination",
+      "tag": "strong",
+      "en": "Delivery focus ·",
+      "ar": "محور التنفيذ ·"
+    },
+    {
+      "id": 140,
+      "group": "sap business one erp transformation managed delivery coordination",
+      "tag": "p",
+      "en": "Outcome / current status · Integrated financial and payment workflows supporting enterprise operations.",
+      "ar": "النتيجة / الحالة الحالية · تكامل سير العمل المالي والمدفوعات لدعم العمليات المؤسسية."
+    },
+    {
+      "id": 141,
+      "group": "sap business one erp transformation managed delivery coordination",
+      "tag": "strong",
+      "en": "Outcome / current status ·",
+      "ar": "النتيجة / الحالة الحالية ·"
+    },
+    {
+      "id": 142,
+      "group": "sap business one erp transformation managed delivery coordination",
+      "tag": "span",
+      "en": "Payments",
+      "ar": "المدفوعات"
+    },
+    {
+      "id": 143,
+      "group": "sap business one erp transformation managed delivery coordination",
+      "tag": "span",
+      "en": "Integration",
+      "ar": "التكامل"
+    },
+    {
+      "id": 144,
+      "group": "microsoft cloud modernization oversaw cloud and workplace moderni",
+      "tag": "span",
+      "en": "05 / CLOUD",
+      "ar": "05 / السحابة"
+    },
+    {
+      "id": 145,
+      "group": "microsoft cloud modernization oversaw cloud and workplace moderni",
+      "tag": "span",
+      "en": "CLOUD & SECURITY",
+      "ar": "السحابة والأمن"
+    },
+    {
+      "id": 146,
+      "group": "microsoft cloud modernization oversaw cloud and workplace moderni",
+      "tag": "h3",
+      "en": "Microsoft Cloud Modernization",
+      "ar": "تحديث بيئة Microsoft السحابية"
+    },
+    {
+      "id": 147,
+      "group": "microsoft cloud modernization oversaw cloud and workplace moderni",
+      "tag": "div",
+      "en": "MY ROLE · Cloud transformation oversight",
+      "ar": "الإشراف على التحول السحابي"
+    },
+    {
+      "id": 148,
+      "group": "microsoft cloud modernization oversaw cloud and workplace moderni",
+      "tag": "p",
+      "en": "Oversaw cloud and workplace modernization involving Microsoft Azure and Microsoft 365, with technical teams responsible for Azure infrastructure, Entra ID, Intune and security controls.",
+      "ar": "أشرفت على تحديث الخدمات السحابية وبيئة العمل باستخدام Microsoft Azure وMicrosoft 365، مع تولي الفرق الفنية إعداد البنية التحتية والهوية والأجهزة وضوابط الأمن."
+    },
+    {
+      "id": 149,
+      "group": "microsoft cloud modernization oversaw cloud and workplace moderni",
+      "tag": "summary",
+      "en": "Explore project details",
+      "ar": "استعرض تفاصيل المشروع"
+    },
+    {
+      "id": 150,
+      "group": "microsoft cloud modernization oversaw cloud and workplace moderni",
+      "tag": "p",
+      "en": "Delivery focus · Aligned technical workstreams, access and security requirements, migration dependencies and operational handover.",
+      "ar": "محور التنفيذ · مواءمة مسارات العمل الفنية ومتطلبات الوصول والأمن واعتماديات الترحيل والتسليم التشغيلي."
+    },
+    {
+      "id": 151,
+      "group": "microsoft cloud modernization oversaw cloud and workplace moderni",
+      "tag": "strong",
+      "en": "Delivery focus ·",
+      "ar": "محور التنفيذ ·"
+    },
+    {
+      "id": 152,
+      "group": "microsoft cloud modernization oversaw cloud and workplace moderni",
+      "tag": "p",
+      "en": "Outcome / current status · Coordinated migration and adoption across cloud, identity and endpoint management.",
+      "ar": "النتيجة / الحالة الحالية · تنسيق الترحيل والتبني عبر الخدمات السحابية والهوية وإدارة الأجهزة."
+    },
+    {
+      "id": 153,
+      "group": "microsoft cloud modernization oversaw cloud and workplace moderni",
+      "tag": "strong",
+      "en": "Outcome / current status ·",
+      "ar": "النتيجة / الحالة الحالية ·"
+    },
+    {
+      "id": 154,
+      "group": "itsm & change governance developed itil-aligned incident, problem",
+      "tag": "span",
+      "en": "06 / GOVERNANCE",
+      "ar": "06 / الحوكمة"
+    },
+    {
+      "id": 155,
+      "group": "itsm & change governance developed itil-aligned incident, problem",
+      "tag": "span",
+      "en": "SERVICE GOVERNANCE",
+      "ar": "حوكمة الخدمات"
+    },
+    {
+      "id": 156,
+      "group": "itsm & change governance developed itil-aligned incident, problem",
+      "tag": "h3",
+      "en": "ITSM & Change Governance",
+      "ar": "حوكمة خدمات تقنية المعلومات وإدارة التغيير"
+    },
+    {
+      "id": 157,
+      "group": "itsm & change governance developed itil-aligned incident, problem",
+      "tag": "div",
+      "en": "MY ROLE · IT governance and change-control leadership",
+      "ar": "قيادة حوكمة تقنية المعلومات وضبط التغيير"
+    },
+    {
+      "id": 158,
+      "group": "itsm & change governance developed itil-aligned incident, problem",
+      "tag": "p",
+      "en": "Developed ITIL-aligned incident, problem, request and change management policies and workflows, including escalation procedures and change approval controls.",
+      "ar": "طورت سياسات ومسارات عمل لإدارة الحوادث والمشكلات والطلبات والتغيير وفق مبادئ ITIL، بما فيها التصعيد وضوابط اعتماد التغييرات."
+    },
+    {
+      "id": 159,
+      "group": "itsm & change governance developed itil-aligned incident, problem",
+      "tag": "summary",
+      "en": "Explore project details",
+      "ar": "استعرض تفاصيل المشروع"
+    },
+    {
+      "id": 160,
+      "group": "itsm & change governance developed itil-aligned incident, problem",
+      "tag": "p",
+      "en": "Delivery focus · Established governance templates, approval pathways and service reporting structures with operational stakeholders.",
+      "ar": "محور التنفيذ · إنشاء نماذج الحوكمة ومسارات الموافقات وهياكل تقارير الخدمات بالتنسيق مع الفرق التشغيلية."
+    },
+    {
+      "id": 161,
+      "group": "itsm & change governance developed itil-aligned incident, problem",
+      "tag": "strong",
+      "en": "Delivery focus ·",
+      "ar": "محور التنفيذ ·"
+    },
+    {
+      "id": 162,
+      "group": "itsm & change governance developed itil-aligned incident, problem",
+      "tag": "p",
+      "en": "Outcome / current status · Stronger process clarity and management visibility across service and change workflows.",
+      "ar": "النتيجة / الحالة الحالية · تحسين وضوح العمليات ورؤية الإدارة لمسارات الخدمة والتغيير."
+    },
+    {
+      "id": 163,
+      "group": "itsm & change governance developed itil-aligned incident, problem",
+      "tag": "strong",
+      "en": "Outcome / current status ·",
+      "ar": "النتيجة / الحالة الحالية ·"
+    },
+    {
+      "id": 164,
+      "group": "itsm & change governance developed itil-aligned incident, problem",
+      "tag": "span",
+      "en": "ITSM",
+      "ar": "إدارة خدمات التقنية"
+    },
+    {
+      "id": 165,
+      "group": "ticket — multi-service digital ticketing platform developing a co",
+      "tag": "span",
+      "en": "07 / PLATFORMS",
+      "ar": "07 / المنصات"
+    },
+    {
+      "id": 166,
+      "group": "ticket — multi-service digital ticketing platform developing a co",
+      "tag": "span",
+      "en": "DIGITAL PRODUCT · DEVELOPMENT / PILOT PLANNING",
+      "ar": "منتج رقمي · التطوير / التخطيط للتجربة"
+    },
+    {
+      "id": 167,
+      "group": "ticket — multi-service digital ticketing platform developing a co",
+      "tag": "h3",
+      "en": "TICKET — Multi-Service Digital Ticketing Platform",
+      "ar": "تكت — منصة رقمية متعددة الخدمات للتذاكر والحجوزات"
+    },
+    {
+      "id": 168,
+      "group": "ticket — multi-service digital ticketing platform developing a co",
+      "tag": "div",
+      "en": "MY ROLE · Product strategy and delivery coordination",
+      "ar": "استراتيجية المنتج وتنسيق التسليم"
+    },
+    {
+      "id": 169,
+      "group": "ticket — multi-service digital ticketing platform developing a co",
+      "tag": "p",
+      "en": "Developing a configurable digital booking and ticketing platform with a broader multi-service vision. Current pilot planning is focused on bus transportation operators and selected routes.",
+      "ar": "أعمل على تطوير منصة قابلة للتهيئة للحجز والتذاكر الرقمية برؤية متعددة الخدمات. يركز التخطيط التجريبي الحالي على مشغلي النقل بالحافلات ومسارات مختارة."
+    },
+    {
+      "id": 170,
+      "group": "ticket — multi-service digital ticketing platform developing a co",
+      "tag": "summary",
+      "en": "Explore project details",
+      "ar": "استعرض تفاصيل المشروع"
+    },
+    {
+      "id": 171,
+      "group": "ticket — multi-service digital ticketing platform developing a co",
+      "tag": "p",
+      "en": "Delivery focus · Defined mobile/PWA booking flows, QR e-ticketing, user/agent/admin roles, operator onboarding and payment requirements. Additional service categories remain future roadmap opportunities.",
+      "ar": "محور التنفيذ · تحديد تدفقات الحجز عبر الهاتف والويب وتذاكر QR وأدوار المستخدم والوكيل والمدير ومتطلبات انضمام المشغلين والدفع؛ والخدمات الإضافية ضمن خارطة الطريق المستقبلية."
+    },
+    {
+      "id": 172,
+      "group": "ticket — multi-service digital ticketing platform developing a co",
+      "tag": "strong",
+      "en": "Delivery focus ·",
+      "ar": "محور التنفيذ ·"
+    },
+    {
+      "id": 173,
+      "group": "ticket — multi-service digital ticketing platform developing a co",
+      "tag": "p",
+      "en": "Outcome / current status · Product development and pilot preparation; no claim of a launched multi-sector platform.",
+      "ar": "النتيجة / الحالة الحالية · المنتج في مرحلة التطوير والإعداد للتجربة، ولم يتم إطلاق منصة متعددة القطاعات بعد."
+    },
+    {
+      "id": 174,
+      "group": "ticket — multi-service digital ticketing platform developing a co",
+      "tag": "strong",
+      "en": "Outcome / current status ·",
+      "ar": "النتيجة / الحالة الحالية ·"
+    },
+    {
+      "id": 175,
+      "group": "ticket — multi-service digital ticketing platform developing a co",
+      "tag": "span",
+      "en": "Product Strategy",
+      "ar": "استراتيجية المنتج"
+    },
+    {
+      "id": 176,
+      "group": "ticket — multi-service digital ticketing platform developing a co",
+      "tag": "span",
+      "en": "QR Ticketing",
+      "ar": "تذاكر QR"
+    },
+    {
+      "id": 177,
+      "group": "ticket — multi-service digital ticketing platform developing a co",
+      "tag": "span",
+      "en": "Payments",
+      "ar": "المدفوعات"
+    },
+    {
+      "id": 178,
+      "group": "microsoft teams direct routing transformation led enterprise voic",
+      "tag": "span",
+      "en": "08 / INFRASTRUCTURE",
+      "ar": "08 / البنية التحتية"
+    },
+    {
+      "id": 179,
+      "group": "microsoft teams direct routing transformation led enterprise voic",
+      "tag": "span",
+      "en": "UNIFIED COMMUNICATIONS · FEB 2022–APR 2023",
+      "ar": "الاتصالات الموحدة · FEB 2022–APR 2023"
+    },
+    {
+      "id": 180,
+      "group": "microsoft teams direct routing transformation led enterprise voic",
+      "tag": "h3",
+      "en": "Microsoft Teams Direct Routing Transformation",
+      "ar": "التحول إلى Microsoft Teams Direct Routing"
+    },
+    {
+      "id": 181,
+      "group": "microsoft teams direct routing transformation led enterprise voic",
+      "tag": "div",
+      "en": "MY ROLE · Project management and vendor coordination",
+      "ar": "إدارة المشروع وتنسيق الموردين"
+    },
+    {
+      "id": 182,
+      "group": "microsoft teams direct routing transformation led enterprise voic",
+      "tag": "p",
+      "en": "Led enterprise voice modernization, consolidating approximately 30 PBX environments into a unified Microsoft Teams Direct Routing approach across UAE branches.",
+      "ar": "قدت تحديث الاتصالات الصوتية المؤسسية بتوحيد نحو 30 بيئة PBX ضمن نهج Microsoft Teams Direct Routing في فروع الإمارات."
+    },
+    {
+      "id": 183,
+      "group": "microsoft teams direct routing transformation led enterprise voic",
+      "tag": "summary",
+      "en": "Explore project details",
+      "ar": "استعرض تفاصيل المشروع"
+    },
+    {
+      "id": 184,
+      "group": "microsoft teams direct routing transformation led enterprise voic",
+      "tag": "p",
+      "en": "Delivery focus · Coordinated telecom providers, internal teams, migration planning, testing, cutover and operational handover.",
+      "ar": "محور التنفيذ · تنسيق مزودي الاتصالات والفرق الداخلية وخطة الترحيل والاختبارات والتحويل والتسليم التشغيلي."
+    },
+    {
+      "id": 185,
+      "group": "microsoft teams direct routing transformation led enterprise voic",
+      "tag": "strong",
+      "en": "Delivery focus ·",
+      "ar": "محور التنفيذ ·"
+    },
+    {
+      "id": 186,
+      "group": "microsoft teams direct routing transformation led enterprise voic",
+      "tag": "p",
+      "en": "Outcome / current status · Standardized enterprise voice service management and simplified support across locations.",
+      "ar": "النتيجة / الحالة الحالية · توحيد إدارة الخدمة الصوتية المؤسسية وتبسيط الدعم عبر المواقع."
+    },
+    {
+      "id": 187,
+      "group": "microsoft teams direct routing transformation led enterprise voic",
+      "tag": "strong",
+      "en": "Outcome / current status ·",
+      "ar": "النتيجة / الحالة الحالية ·"
+    },
+    {
+      "id": 188,
+      "group": "microsoft teams direct routing transformation led enterprise voic",
+      "tag": "span",
+      "en": "Telecom",
+      "ar": "الاتصالات"
+    },
+    {
+      "id": 189,
+      "group": "microsoft teams direct routing transformation led enterprise voic",
+      "tag": "span",
+      "en": "Migration",
+      "ar": "الترحيل"
+    },
+    {
+      "id": 190,
+      "group": "sms donation platform & telecom integration led delivery of a mob",
+      "tag": "span",
+      "en": "09 / PLATFORMS",
+      "ar": "09 / المنصات"
+    },
+    {
+      "id": 191,
+      "group": "sms donation platform & telecom integration led delivery of a mob",
+      "tag": "span",
+      "en": "DIGITAL PAYMENTS · MAR 2021–FEB 2022",
+      "ar": "المدفوعات الرقمية · MAR 2021–FEB 2022"
+    },
+    {
+      "id": 192,
+      "group": "sms donation platform & telecom integration led delivery of a mob",
+      "tag": "h3",
+      "en": "SMS Donation Platform & Telecom Integration",
+      "ar": "منصة التبرع عبر الرسائل النصية وتكامل الاتصالات"
+    },
+    {
+      "id": 193,
+      "group": "sms donation platform & telecom integration led delivery of a mob",
+      "tag": "div",
+      "en": "MY ROLE · End-to-end project delivery",
+      "ar": "تسليم المشروع من البداية للنهاية"
+    },
+    {
+      "id": 194,
+      "group": "sms donation platform & telecom integration led delivery of a mob",
+      "tag": "p",
+      "en": "Led delivery of a mobile donation platform connecting telecom short codes, SMS gateways, CRM and payment-related services.",
+      "ar": "قدت تسليم منصة تبرعات عبر الهاتف تربط الرموز المختصرة للاتصالات وبوابات SMS ونظام CRM والخدمات المرتبطة بالدفع."
+    },
+    {
+      "id": 195,
+      "group": "sms donation platform & telecom integration led delivery of a mob",
+      "tag": "summary",
+      "en": "Explore project details",
+      "ar": "استعرض تفاصيل المشروع"
+    },
+    {
+      "id": 196,
+      "group": "sms donation platform & telecom integration led delivery of a mob",
+      "tag": "p",
+      "en": "Delivery focus · Managed telecom coordination, integration dependencies, testing, reporting requirements and operational handover.",
+      "ar": "محور التنفيذ · إدارة تنسيق شركات الاتصالات واعتماديات التكامل والاختبارات ومتطلبات التقارير والتسليم التشغيلي."
+    },
+    {
+      "id": 197,
+      "group": "sms donation platform & telecom integration led delivery of a mob",
+      "tag": "strong",
+      "en": "Delivery focus ·",
+      "ar": "محور التنفيذ ·"
+    },
+    {
+      "id": 198,
+      "group": "sms donation platform & telecom integration led delivery of a mob",
+      "tag": "p",
+      "en": "Outcome / current status · Enabled a more streamlined mobile donation channel and centralized reporting.",
+      "ar": "النتيجة / الحالة الحالية · تيسير قناة التبرع عبر الهاتف وتحسين مركزية التقارير."
+    },
+    {
+      "id": 199,
+      "group": "sms donation platform & telecom integration led delivery of a mob",
+      "tag": "strong",
+      "en": "Outcome / current status ·",
+      "ar": "النتيجة / الحالة الحالية ·"
+    },
+    {
+      "id": 200,
+      "group": "sms donation platform & telecom integration led delivery of a mob",
+      "tag": "span",
+      "en": "SMS Gateway",
+      "ar": "بوابة الرسائل النصية"
+    },
+    {
+      "id": 201,
+      "group": "sms donation platform & telecom integration led delivery of a mob",
+      "tag": "span",
+      "en": "Integration",
+      "ar": "التكامل"
+    },
+    {
+      "id": 202,
+      "group": "quran memorization management system managed development of a mul",
+      "tag": "span",
+      "en": "10 / PLATFORMS",
+      "ar": "10 / المنصات"
+    },
+    {
+      "id": 203,
+      "group": "quran memorization management system managed development of a mul",
+      "tag": "span",
+      "en": "BUSINESS APPLICATIONS · JUN 2020–JUN 2021",
+      "ar": "تطبيقات الأعمال · JUN 2020–JUN 2021"
+    },
+    {
+      "id": 204,
+      "group": "quran memorization management system managed development of a mul",
+      "tag": "h3",
+      "en": "Quran Memorization Management System",
+      "ar": "نظام إدارة مراكز تحفيظ القرآن"
+    },
+    {
+      "id": 205,
+      "group": "quran memorization management system managed development of a mul",
+      "tag": "div",
+      "en": "MY ROLE · Project delivery and business coordination",
+      "ar": "تسليم المشروع والتنسيق مع الإدارات"
+    },
+    {
+      "id": 206,
+      "group": "quran memorization management system managed development of a mul",
+      "tag": "p",
+      "en": "Managed development of a multi-center digital system for student registration, attendance, assessments and administrative reporting.",
+      "ar": "أدرت تطوير نظام رقمي متعدد المراكز لتسجيل الطلاب والحضور والتقييمات والتقارير الإدارية."
+    },
+    {
+      "id": 207,
+      "group": "quran memorization management system managed development of a mul",
+      "tag": "summary",
+      "en": "Explore project details",
+      "ar": "استعرض تفاصيل المشروع"
+    },
+    {
+      "id": 208,
+      "group": "quran memorization management system managed development of a mul",
+      "tag": "p",
+      "en": "Delivery focus · Coordinated academic stakeholders, solution requirements, vendors, testing, user adoption and handover.",
+      "ar": "محور التنفيذ · تنسيق أصحاب المصلحة الأكاديميين ومتطلبات الحل والموردين والاختبارات وتبني المستخدمين والتسليم."
+    },
+    {
+      "id": 209,
+      "group": "quran memorization management system managed development of a mul",
+      "tag": "strong",
+      "en": "Delivery focus ·",
+      "ar": "محور التنفيذ ·"
+    },
+    {
+      "id": 210,
+      "group": "quran memorization management system managed development of a mul",
+      "tag": "p",
+      "en": "Outcome / current status · Digitized core academic workflows and improved information visibility across centers.",
+      "ar": "النتيجة / الحالة الحالية · رقمنة العمليات الأكاديمية الأساسية وتحسين وضوح المعلومات بين المراكز."
+    },
+    {
+      "id": 211,
+      "group": "quran memorization management system managed development of a mul",
+      "tag": "strong",
+      "en": "Outcome / current status ·",
+      "ar": "النتيجة / الحالة الحالية ·"
+    },
+    {
+      "id": 212,
+      "group": "quran memorization management system managed development of a mul",
+      "tag": "span",
+      "en": "Web Platform",
+      "ar": "منصة ويب"
+    },
+    {
+      "id": 213,
+      "group": "quran memorization management system managed development of a mul",
+      "tag": "span",
+      "en": "Workflows",
+      "ar": "مسارات العمل"
+    },
+    {
+      "id": 214,
+      "group": "quran memorization management system managed development of a mul",
+      "tag": "span",
+      "en": "Change",
+      "ar": "التغيير"
+    },
+    {
+      "id": 215,
+      "group": "enterprise branch infrastructure & network deployment led deliver",
+      "tag": "span",
+      "en": "11 / INFRASTRUCTURE",
+      "ar": "11 / البنية التحتية"
+    },
+    {
+      "id": 216,
+      "group": "enterprise branch infrastructure & network deployment led deliver",
+      "tag": "span",
+      "en": "BRANCH ENABLEMENT · JAN 2018–APR 2019",
+      "ar": "تجهيز الفروع · JAN 2018–APR 2019"
+    },
+    {
+      "id": 217,
+      "group": "enterprise branch infrastructure & network deployment led deliver",
+      "tag": "h3",
+      "en": "Enterprise Branch Infrastructure & Network Deployment",
+      "ar": "البنية التحتية والشبكات لفروع المؤسسة"
+    },
+    {
+      "id": 218,
+      "group": "enterprise branch infrastructure & network deployment led deliver",
+      "tag": "div",
+      "en": "MY ROLE · Multi-site infrastructure project management",
+      "ar": "إدارة مشاريع البنية التحتية متعددة المواقع"
+    },
+    {
+      "id": 219,
+      "group": "enterprise branch infrastructure & network deployment led deliver",
+      "tag": "p",
+      "en": "Led delivery of technology infrastructure for five new branches, including LAN, Wi-Fi, telephony, security systems and connectivity to shared services.",
+      "ar": "قدت تسليم البنية التقنية لخمسة فروع جديدة، بما يشمل LAN وWi-Fi والاتصالات الهاتفية وأنظمة الأمن والربط بالخدمات المشتركة."
+    },
+    {
+      "id": 220,
+      "group": "enterprise branch infrastructure & network deployment led deliver",
+      "tag": "summary",
+      "en": "Explore project details",
+      "ar": "استعرض تفاصيل المشروع"
+    },
+    {
+      "id": 221,
+      "group": "enterprise branch infrastructure & network deployment led deliver",
+      "tag": "p",
+      "en": "Delivery focus · Coordinated site readiness, suppliers, network/security teams, testing and operational handover.",
+      "ar": "محور التنفيذ · تنسيق جاهزية المواقع والموردين وفرق الشبكات والأمن والاختبارات والتسليم التشغيلي."
+    },
+    {
+      "id": 222,
+      "group": "enterprise branch infrastructure & network deployment led deliver",
+      "tag": "strong",
+      "en": "Delivery focus ·",
+      "ar": "محور التنفيذ ·"
+    },
+    {
+      "id": 223,
+      "group": "enterprise branch infrastructure & network deployment led deliver",
+      "tag": "p",
+      "en": "Outcome / current status · Supported branch openings with standardized connectivity and enterprise infrastructure.",
+      "ar": "النتيجة / الحالة الحالية · دعم افتتاح الفروع ببنية اتصالات وشبكات مؤسسية موحدة."
+    },
+    {
+      "id": 224,
+      "group": "enterprise branch infrastructure & network deployment led deliver",
+      "tag": "strong",
+      "en": "Outcome / current status ·",
+      "ar": "النتيجة / الحالة الحالية ·"
+    },
+    {
+      "id": 225,
+      "group": "enterprise branch infrastructure & network deployment led deliver",
+      "tag": "span",
+      "en": "Networking",
+      "ar": "الشبكات"
+    },
+    {
+      "id": 226,
+      "group": "enterprise branch infrastructure & network deployment led deliver",
+      "tag": "span",
+      "en": "Multi-site",
+      "ar": "متعدد المواقع"
+    },
+    {
+      "id": 227,
+      "group": "centralized cctv & print services led separate initiatives to cen",
+      "tag": "span",
+      "en": "12 / INFRASTRUCTURE",
+      "ar": "12 / البنية التحتية"
+    },
+    {
+      "id": 228,
+      "group": "centralized cctv & print services led separate initiatives to cen",
+      "tag": "span",
+      "en": "ENTERPRISE OPERATIONS · 2020",
+      "ar": "العمليات المؤسسية · 2020"
+    },
+    {
+      "id": 229,
+      "group": "centralized cctv & print services led separate initiatives to cen",
+      "tag": "h3",
+      "en": "Centralized CCTV & Print Services",
+      "ar": "مركزية المراقبة بالكاميرات وخدمات الطباعة"
+    },
+    {
+      "id": 230,
+      "group": "centralized cctv & print services led separate initiatives to cen",
+      "tag": "div",
+      "en": "MY ROLE · Infrastructure delivery coordination",
+      "ar": "تنسيق تسليم مشاريع البنية التحتية"
+    },
+    {
+      "id": 231,
+      "group": "centralized cctv & print services led separate initiatives to cen",
+      "tag": "p",
+      "en": "Led separate initiatives to centralize surveillance monitoring and standardize enterprise print management across multiple sites.",
+      "ar": "قدت مبادرتين منفصلتين لمركزية مراقبة كاميرات الأمن وتوحيد إدارة الطباعة المؤسسية عبر مواقع متعددة."
+    },
+    {
+      "id": 232,
+      "group": "centralized cctv & print services led separate initiatives to cen",
+      "tag": "summary",
+      "en": "Explore project details",
+      "ar": "استعرض تفاصيل المشروع"
+    },
+    {
+      "id": 233,
+      "group": "centralized cctv & print services led separate initiatives to cen",
+      "tag": "p",
+      "en": "Delivery focus · Managed vendor and technical coordination, rollout planning, testing, change adoption and handover.",
+      "ar": "محور التنفيذ · إدارة تنسيق الموردين والفرق الفنية وخطط النشر والاختبارات وتبني التغيير والتسليم."
+    },
+    {
+      "id": 234,
+      "group": "centralized cctv & print services led separate initiatives to cen",
+      "tag": "strong",
+      "en": "Delivery focus ·",
+      "ar": "محور التنفيذ ·"
+    },
+    {
+      "id": 235,
+      "group": "centralized cctv & print services led separate initiatives to cen",
+      "tag": "p",
+      "en": "Outcome / current status · Improved centralized operational oversight and standardization.",
+      "ar": "النتيجة / الحالة الحالية · تحسين الإشراف التشغيلي المركزي وتوحيد المعايير."
+    },
+    {
+      "id": 236,
+      "group": "centralized cctv & print services led separate initiatives to cen",
+      "tag": "strong",
+      "en": "Outcome / current status ·",
+      "ar": "النتيجة / الحالة الحالية ·"
+    },
+    {
+      "id": 237,
+      "group": "centralized cctv & print services led separate initiatives to cen",
+      "tag": "span",
+      "en": "Print Services",
+      "ar": "خدمات الطباعة"
+    },
+    {
+      "id": 238,
+      "group": "centralized cctv & print services led separate initiatives to cen",
+      "tag": "span",
+      "en": "Operations",
+      "ar": "العمليات"
+    },
+    {
+      "id": 239,
+      "group": "pmo governance & reporting developed governance frameworks, risk ",
+      "tag": "span",
+      "en": "13 / GOVERNANCE",
+      "ar": "13 / الحوكمة"
+    },
+    {
+      "id": 240,
+      "group": "pmo governance & reporting developed governance frameworks, risk ",
+      "tag": "span",
+      "en": "PORTFOLIO LEADERSHIP",
+      "ar": "قيادة المحافظ"
+    },
+    {
+      "id": 241,
+      "group": "pmo governance & reporting developed governance frameworks, risk ",
+      "tag": "h3",
+      "en": "PMO Governance & Reporting",
+      "ar": "حوكمة مكتب إدارة المشاريع والتقارير"
+    },
+    {
+      "id": 242,
+      "group": "pmo governance & reporting developed governance frameworks, risk ",
+      "tag": "div",
+      "en": "MY ROLE · PMO and digital governance leadership",
+      "ar": "قيادة مكتب إدارة المشاريع والحوكمة الرقمية"
+    },
+    {
+      "id": 243,
+      "group": "pmo governance & reporting developed governance frameworks, risk ",
+      "tag": "p",
+      "en": "Developed governance frameworks, risk and decision reporting practices, portfolio dashboards and executive management reporting.",
+      "ar": "طورت أطر الحوكمة وممارسات تقارير المخاطر والقرارات ولوحات متابعة المحافظ والتقارير للإدارة التنفيذية."
+    },
+    {
+      "id": 244,
+      "group": "pmo governance & reporting developed governance frameworks, risk ",
+      "tag": "summary",
+      "en": "Explore project details",
+      "ar": "استعرض تفاصيل المشروع"
+    },
+    {
+      "id": 245,
+      "group": "pmo governance & reporting developed governance frameworks, risk ",
+      "tag": "p",
+      "en": "Delivery focus · Aligned risk, performance and approval information to support portfolio review and governance decisions.",
+      "ar": "محور التنفيذ · مواءمة بيانات المخاطر والأداء والموافقات لدعم مراجعات المحافظ والقرارات الحوكمية."
+    },
+    {
+      "id": 246,
+      "group": "pmo governance & reporting developed governance frameworks, risk ",
+      "tag": "strong",
+      "en": "Delivery focus ·",
+      "ar": "محور التنفيذ ·"
+    },
+    {
+      "id": 247,
+      "group": "pmo governance & reporting developed governance frameworks, risk ",
+      "tag": "p",
+      "en": "Outcome / current status · More structured portfolio visibility, accountability and decision support.",
+      "ar": "النتيجة / الحالة الحالية · تحسين تنظيم الرؤية على المحافظ والمساءلة ودعم القرار."
+    },
+    {
+      "id": 248,
+      "group": "pmo governance & reporting developed governance frameworks, risk ",
+      "tag": "strong",
+      "en": "Outcome / current status ·",
+      "ar": "النتيجة / الحالة الحالية ·"
+    },
+    {
+      "id": 249,
+      "group": "pmo governance & reporting developed governance frameworks, risk ",
+      "tag": "span",
+      "en": "PMO",
+      "ar": "مكتب إدارة المشاريع"
+    },
+    {
+      "id": 250,
+      "group": "pmo governance & reporting developed governance frameworks, risk ",
+      "tag": "span",
+      "en": "Reporting",
+      "ar": "التقارير"
+    },
+    {
+      "id": 251,
+      "group": "enterprise infrastructure & communications coordinated infrastruc",
+      "tag": "span",
+      "en": "14 / CLOUD",
+      "ar": "14 / السحابة"
+    },
+    {
+      "id": 252,
+      "group": "enterprise infrastructure & communications coordinated infrastruc",
+      "tag": "span",
+      "en": "INFRASTRUCTURE & TELECOM",
+      "ar": "البنية التحتية والاتصالات"
+    },
+    {
+      "id": 253,
+      "group": "enterprise infrastructure & communications coordinated infrastruc",
+      "tag": "h3",
+      "en": "Enterprise Infrastructure & Communications",
+      "ar": "البنية التحتية والاتصالات المؤسسية"
+    },
+    {
+      "id": 254,
+      "group": "enterprise infrastructure & communications coordinated infrastruc",
+      "tag": "div",
+      "en": "MY ROLE · Technology program coordination",
+      "ar": "تنسيق البرامج التقنية"
+    },
+    {
+      "id": 255,
+      "group": "enterprise infrastructure & communications coordinated infrastruc",
+      "tag": "p",
+      "en": "Coordinated infrastructure modernization, branch connectivity and unified communications initiatives across internal teams and external providers.",
+      "ar": "نسقت مبادرات تحديث البنية التحتية وربط الفروع والاتصالات الموحدة بين الفرق الداخلية ومقدمي الخدمات الخارجيين."
+    },
+    {
+      "id": 256,
+      "group": "enterprise infrastructure & communications coordinated infrastruc",
+      "tag": "summary",
+      "en": "Explore project details",
+      "ar": "استعرض تفاصيل المشروع"
+    },
+    {
+      "id": 257,
+      "group": "enterprise infrastructure & communications coordinated infrastruc",
+      "tag": "p",
+      "en": "Delivery focus · Managed stakeholder dependencies, vendor coordination, implementation planning and transition considerations.",
+      "ar": "محور التنفيذ · إدارة اعتماديات أصحاب المصلحة وتنسيق الموردين وتخطيط التنفيذ ومتطلبات الانتقال."
+    },
+    {
+      "id": 258,
+      "group": "enterprise infrastructure & communications coordinated infrastruc",
+      "tag": "strong",
+      "en": "Delivery focus ·",
+      "ar": "محور التنفيذ ·"
+    },
+    {
+      "id": 259,
+      "group": "enterprise infrastructure & communications coordinated infrastruc",
+      "tag": "p",
+      "en": "Outcome / current status · Supported continuity and modernization of enterprise communications services.",
+      "ar": "النتيجة / الحالة الحالية · دعم استمرارية خدمات الاتصالات المؤسسية وتحديثها."
+    },
+    {
+      "id": 260,
+      "group": "enterprise infrastructure & communications coordinated infrastruc",
+      "tag": "strong",
+      "en": "Outcome / current status ·",
+      "ar": "النتيجة / الحالة الحالية ·"
+    },
+    {
+      "id": 261,
+      "group": "enterprise infrastructure & communications coordinated infrastruc",
+      "tag": "span",
+      "en": "Infrastructure",
+      "ar": "البنية التحتية"
+    },
+    {
+      "id": 262,
+      "group": "enterprise infrastructure & communications coordinated infrastruc",
+      "tag": "span",
+      "en": "Telecom",
+      "ar": "الاتصالات"
+    },
+    {
+      "id": 263,
+      "group": "enterprise infrastructure & communications coordinated infrastruc",
+      "tag": "span",
+      "en": "Vendors",
+      "ar": "الموردون"
+    },
+    {
+      "id": 264,
+      "group": "multi-branch spare parts sales system designed a centralized spar",
+      "tag": "span",
+      "en": "15 / ENTERPRISE",
+      "ar": "15 / الأنظمة المؤسسية"
+    },
+    {
+      "id": 265,
+      "group": "multi-branch spare parts sales system designed a centralized spar",
+      "tag": "span",
+      "en": "BUSINESS APPLICATIONS · MAR 2011–FEB 2012",
+      "ar": "تطبيقات الأعمال · MAR 2011–FEB 2012"
+    },
+    {
+      "id": 266,
+      "group": "multi-branch spare parts sales system designed a centralized spar",
+      "tag": "h3",
+      "en": "Multi-Branch Spare Parts Sales System",
+      "ar": "نظام مبيعات قطع الغيار متعدد الفروع"
+    },
+    {
+      "id": 267,
+      "group": "multi-branch spare parts sales system designed a centralized spar",
+      "tag": "div",
+      "en": "MY ROLE · Solution design and delivery",
+      "ar": "تصميم الحل وتسليمه"
+    },
+    {
+      "id": 268,
+      "group": "multi-branch spare parts sales system designed a centralized spar",
+      "tag": "p",
+      "en": "Designed a centralized spare parts sales and inventory system supporting multiple branches.",
+      "ar": "صممت نظامًا مركزيًا لمبيعات قطع الغيار والمخزون يدعم عدة فروع."
+    },
+    {
+      "id": 269,
+      "group": "multi-branch spare parts sales system designed a centralized spar",
+      "tag": "summary",
+      "en": "Explore project details",
+      "ar": "استعرض تفاصيل المشروع"
+    },
+    {
+      "id": 270,
+      "group": "multi-branch spare parts sales system designed a centralized spar",
+      "tag": "p",
+      "en": "Delivery focus · Coordinated business requirements and standardized inventory, pricing and sales workflows.",
+      "ar": "محور التنفيذ · تنسيق متطلبات الأعمال وتوحيد سير عمل المخزون والتسعير والمبيعات."
+    },
+    {
+      "id": 271,
+      "group": "multi-branch spare parts sales system designed a centralized spar",
+      "tag": "strong",
+      "en": "Delivery focus ·",
+      "ar": "محور التنفيذ ·"
+    },
+    {
+      "id": 272,
+      "group": "multi-branch spare parts sales system designed a centralized spar",
+      "tag": "p",
+      "en": "Outcome / current status · Improved consistency of inventory and sales information across branches.",
+      "ar": "النتيجة / الحالة الحالية · تحسين اتساق معلومات المخزون والمبيعات بين الفروع."
+    },
+    {
+      "id": 273,
+      "group": "multi-branch spare parts sales system designed a centralized spar",
+      "tag": "strong",
+      "en": "Outcome / current status ·",
+      "ar": "النتيجة / الحالة الحالية ·"
+    },
+    {
+      "id": 274,
+      "group": "multi-branch spare parts sales system designed a centralized spar",
+      "tag": "span",
+      "en": "Inventory",
+      "ar": "المخزون"
+    },
+    {
+      "id": 275,
+      "group": "multi-branch spare parts sales system designed a centralized spar",
+      "tag": "span",
+      "en": "Sales",
+      "ar": "المبيعات"
+    },
+    {
+      "id": 276,
+      "group": "multi-branch spare parts sales system designed a centralized spar",
+      "tag": "span",
+      "en": "Systems",
+      "ar": "الأنظمة"
+    },
+    {
+      "id": 277,
+      "group": "projects",
+      "tag": "p",
+      "en": "Project descriptions distinguish delivered work from work in progress. Technical configuration was performed by the relevant specialist teams. Quantitative outcomes should be supported by internal evidence when requested.",
+      "ar": "توضح أوصاف المشاريع الفرق بين الأعمال المنجزة والجارية. نفذت الفرق المتخصصة الإعدادات التقنية. ينبغي دعم النتائج الرقمية بأدلة داخلية عند الطلب."
+    },
+    {
+      "id": 278,
+      "group": "ai",
+      "tag": "div",
+      "en": "A focused leadership capability",
+      "ar": "قدرة قيادية متخصصة"
+    },
+    {
+      "id": 279,
+      "group": "ai",
+      "tag": "h2",
+      "en": "Responsible AI, governed from the start.",
+      "ar": "ذكاء اصطناعي مسؤول محكوم منذ البداية."
+    },
+    {
+      "id": 280,
+      "group": "ai",
+      "tag": "h3",
+      "en": "AI Governance & AI-Enabled Transformation",
+      "ar": "حوكمة الذكاء الاصطناعي والتحول المدعوم به"
+    },
+    {
+      "id": 281,
+      "group": "ai",
+      "tag": "p",
+      "en": "My AI focus is on how organizations adopt, govern and oversee AI responsibly: policies, risk controls, decision rights and integration with established enterprise governance. I also use AI-assisted tools to accelerate solution design and reporting, with human validation and governance oversight.",
+      "ar": "يرتكز عملي في الذكاء الاصطناعي على تمكين المؤسسات من تبنّيه واستخدامه بمسؤولية، من خلال تطوير السياسات، وضوابط المخاطر، وتحديد صلاحيات اتخاذ القرار، وربطها بمنظومة الحوكمة المؤسسية. كما أستخدم أدوات مدعومة بالذكاء الاصطناعي لتسريع تصميم الحلول وإعداد التقارير، مع الالتزام بالمراجعة البشرية والرقابة والاعتماد المؤسسي."
+    },
+    {
+      "id": 282,
+      "group": "ai",
+      "tag": "span",
+      "en": "Responsible AI",
+      "ar": "الذكاء الاصطناعي المسؤول"
+    },
+    {
+      "id": 283,
+      "group": "ai",
+      "tag": "span",
+      "en": "AI Policy Development",
+      "ar": "تطوير سياسات الذكاء الاصطناعي"
+    },
+    {
+      "id": 284,
+      "group": "ai",
+      "tag": "span",
+      "en": "AI Risk & Oversight",
+      "ar": "مخاطر الذكاء الاصطناعي والرقابة"
+    },
+    {
+      "id": 285,
+      "group": "ai",
+      "tag": "span",
+      "en": "AI Project Governance",
+      "ar": "حوكمة مشاريع الذكاء الاصطناعي"
+    },
+    {
+      "id": 286,
+      "group": "ai",
+      "tag": "span",
+      "en": "Generative AI",
+      "ar": "الذكاء الاصطناعي التوليدي"
+    },
+    {
+      "id": 287,
+      "group": "ai",
+      "tag": "div",
+      "en": "POLICY",
+      "ar": "السياسات"
+    },
+    {
+      "id": 288,
+      "group": "ai",
+      "tag": "h3",
+      "en": "Governance frameworks",
+      "ar": "أطر الحوكمة"
+    },
+    {
+      "id": 289,
+      "group": "ai",
+      "tag": "p",
+      "en": "Contributed to AI-related governance policies and procedures within the digital transformation operating environment.",
+      "ar": "ساهمت في سياسات وإجراءات حوكمة الذكاء الاصطناعي ضمن بيئة تشغيل التحول الرقمي."
+    },
+    {
+      "id": 290,
+      "group": "ai",
+      "tag": "div",
+      "en": "APPLICATION",
+      "ar": "التطبيق"
+    },
+    {
+      "id": 291,
+      "group": "ai",
+      "tag": "h3",
+      "en": "AI-assisted delivery",
+      "ar": "التنفيذ المدعوم بالذكاء الاصطناعي"
+    },
+    {
+      "id": 292,
+      "group": "ai",
+      "tag": "p",
+      "en": "Apply AI-assisted approaches to requirements, reporting and governance solution design while retaining review and decision accountability.",
+      "ar": "أوظف أدوات الذكاء الاصطناعي لدعم المتطلبات والتقارير وتصميم حلول الحوكمة مع الحفاظ على المراجعة البشرية والمساءلة عن القرارات."
+    },
+    {
+      "id": 293,
+      "group": "ai",
+      "tag": "div",
+      "en": "DEVELOPMENT",
+      "ar": "التطوير المهني"
+    },
+    {
+      "id": 294,
+      "group": "ai",
+      "tag": "h3",
+      "en": "Specialized learning",
+      "ar": "تعلم متخصص"
+    },
+    {
+      "id": 295,
+      "group": "ai",
+      "tag": "p",
+      "en": "PMI and Microsoft AI-related courses; CPMAI core preparation training completed, with certification exam preparation in progress.",
+      "ar": "دورات متخصصة في الذكاء الاصطناعي من PMI وMicrosoft؛ اكتمل التدريب الأساسي التحضيري لـCPMAI ويجري الاستعداد للاختبار."
+    },
+    {
+      "id": 296,
+      "group": "leadership",
+      "tag": "div",
+      "en": "Leadership approach",
+      "ar": "النهج القيادي"
+    },
+    {
+      "id": 297,
+      "group": "leadership",
+      "tag": "h2",
+      "en": "Clarity. Ownership. Evidence.",
+      "ar": "الوضوح. المسؤولية. الأدلة."
+    },
+    {
+      "id": 298,
+      "group": "leadership",
+      "tag": "h3",
+      "en": "Decisions people can trust",
+      "ar": "قرارات موثوقة"
+    },
+    {
+      "id": 299,
+      "group": "leadership",
+      "tag": "p",
+      "en": "Clear ownership, risk-based escalation, documented approvals and reporting that distinguishes verified results from pending decisions.",
+      "ar": "مسؤوليات واضحة وتصعيد مبني على المخاطر وموافقات موثقة وتقارير تميز النتائج المثبتة عن القرارات المعلقة."
+    },
+    {
+      "id": 300,
+      "group": "leadership",
+      "tag": "h3",
+      "en": "Delivery teams can execute",
+      "ar": "فرق قادرة على التنفيذ"
+    },
+    {
+      "id": 301,
+      "group": "leadership",
+      "tag": "p",
+      "en": "Practical operating models that connect business sponsors, IT specialists, vendors and assurance stakeholders without unnecessary bureaucracy.",
+      "ar": "نماذج تشغيل عملية تربط رعاة الأعمال والمتخصصين والموردين وجهات التوكيد دون بيروقراطية غير ضرورية."
+    },
+    {
+      "id": 302,
+      "group": "leadership",
+      "tag": "div",
+      "en": "Professional journey",
+      "ar": "المسيرة المهنية"
+    },
+    {
+      "id": 303,
+      "group": "leadership",
+      "tag": "h3",
+      "en": "From enterprise delivery to governance leadership.",
+      "ar": "من تنفيذ المشاريع المؤسسية إلى قيادة الحوكمة."
+    },
+    {
+      "id": 304,
+      "group": "leadership",
+      "tag": "h3",
+      "en": "IT Project Delivery",
+      "ar": "تسليم مشاريع تقنية المعلومات"
+    },
+    {
+      "id": 305,
+      "group": "leadership",
+      "tag": "p",
+      "en": "Public-sector technology initiatives and operational systems.",
+      "ar": "مبادرات تقنية وأنظمة تشغيلية في القطاع الحكومي."
+    },
+    {
+      "id": 306,
+      "group": "leadership",
+      "tag": "h3",
+      "en": "Multi-site Programs",
+      "ar": "برامج متعددة المواقع"
+    },
+    {
+      "id": 307,
+      "group": "leadership",
+      "tag": "p",
+      "en": "Asset, infrastructure and telecom project management in the UAE.",
+      "ar": "إدارة مشاريع الأصول والبنية التحتية والاتصالات في الإمارات."
+    },
+    {
+      "id": 308,
+      "group": "leadership",
+      "tag": "h3",
+      "en": "Digital Transformation",
+      "ar": "التحول الرقمي"
+    },
+    {
+      "id": 309,
+      "group": "leadership",
+      "tag": "p",
+      "en": "ERP, cloud, digital platforms and enterprise modernization.",
+      "ar": "أنظمة ERP والسحابة والمنصات الرقمية والتحديث المؤسسي."
+    },
+    {
+      "id": 310,
+      "group": "leadership",
+      "tag": "small",
+      "en": "2024–PRESENT",
+      "ar": "2024–حتى الآن"
+    },
+    {
+      "id": 311,
+      "group": "leadership",
+      "tag": "h3",
+      "en": "PMO & Governance",
+      "ar": "مكتب إدارة المشاريع والحوكمة"
+    },
+    {
+      "id": 312,
+      "group": "leadership",
+      "tag": "p",
+      "en": "Portfolio oversight, IT governance, risk, change, audit and responsible AI policy.",
+      "ar": "الرقابة على المحافظ وحوكمة تقنية المعلومات والمخاطر والتغيير والتدقيق وسياسات الذكاء الاصطناعي المسؤول."
+    },
+    {
+      "id": 313,
+      "group": "credentials",
+      "tag": "div",
+      "en": "Credentials & development",
+      "ar": "الشهادات والتطوير المهني"
+    },
+    {
+      "id": 314,
+      "group": "credentials",
+      "tag": "h2",
+      "en": "Professional credibility, clearly stated.",
+      "ar": "مؤهلات مهنية موثقة بوضوح."
+    },
+    {
+      "id": 315,
+      "group": "credentials",
+      "tag": "p",
+      "en": "Formal certifications are separated from certificates of completion, specialized training and examinations still in progress.",
+      "ar": "فصل الشهادات المهنية المعتمدة عن شهادات إكمال الدورات والتدريب المتخصص والاختبارات قيد التحضير."
+    },
+    {
+      "id": 316,
+      "group": "credentials",
+      "tag": "h3",
+      "en": "Professional Certifications",
+      "ar": "الشهادات المهنية المعتمدة"
+    },
+    {
+      "id": 317,
+      "group": "credentials",
+      "tag": "strong",
+      "en": "Project Management Professional (PMP®)",
+      "ar": "Project Management Professional (PMP®)"
+    },
+    {
+      "id": 318,
+      "group": "credentials",
+      "tag": "span",
+      "en": "Certified",
+      "ar": "معتمد"
+    },
+    {
+      "id": 319,
+      "group": "credentials",
+      "tag": "strong",
+      "en": "PMI Agile Certified Practitioner (PMI-ACP®)",
+      "ar": "PMI Agile Certified Practitioner (PMI-ACP®)"
+    },
+    {
+      "id": 320,
+      "group": "credentials",
+      "tag": "span",
+      "en": "Certified",
+      "ar": "معتمد"
+    },
+    {
+      "id": 321,
+      "group": "credentials",
+      "tag": "strong",
+      "en": "PMI Risk Management Professional (PMI-RMP®)",
+      "ar": "PMI Risk Management Professional (PMI-RMP®)"
+    },
+    {
+      "id": 322,
+      "group": "credentials",
+      "tag": "span",
+      "en": "Certified",
+      "ar": "معتمد"
+    },
+    {
+      "id": 323,
+      "group": "credentials",
+      "tag": "strong",
+      "en": "ITIL® 4 Certified",
+      "ar": "ITIL® 4 Certified"
+    },
+    {
+      "id": 324,
+      "group": "credentials",
+      "tag": "span",
+      "en": "Certified",
+      "ar": "معتمد"
+    },
+    {
+      "id": 325,
+      "group": "credentials",
+      "tag": "h3",
+      "en": "Professional Certificates & Specialized Training",
+      "ar": "الشهادات التدريبية والتدريب المتخصص"
+    },
+    {
+      "id": 326,
+      "group": "credentials",
+      "tag": "li",
+      "en": "Google Project Management Professional Certificate",
+      "ar": "شهادة إدارة المشاريع المهنية من Google"
+    },
+    {
+      "id": 327,
+      "group": "credentials",
+      "tag": "li",
+      "en": "Artificial Intelligence on Microsoft Azure",
+      "ar": "الذكاء الاصطناعي على Microsoft Azure"
+    },
+    {
+      "id": 328,
+      "group": "credentials",
+      "tag": "li",
+      "en": "Cloud Computing Essentials with Azure Management",
+      "ar": "أساسيات الحوسبة السحابية وإدارة Azure"
+    },
+    {
+      "id": 329,
+      "group": "credentials",
+      "tag": "li",
+      "en": "SAP Business One",
+      "ar": "SAP Business One"
+    },
+    {
+      "id": 330,
+      "group": "credentials",
+      "tag": "li",
+      "en": "PMI Disciplined Agile (PMI-DA) training and related learning",
+      "ar": "تدريب PMI Disciplined Agile (PMI-DA) والتعلم المرتبط به"
+    },
+    {
+      "id": 331,
+      "group": "credentials",
+      "tag": "li",
+      "en": "Lean Six Sigma Green Belt training",
+      "ar": "تدريب الحزام الأخضر في Lean Six Sigma"
+    },
+    {
+      "id": 332,
+      "group": "credentials",
+      "tag": "span",
+      "en": "Explore AI, Agile & Professional Development",
+      "ar": "استعرض دورات الذكاء الاصطناعي وأجايل والتطوير المهني"
+    },
+    {
+      "id": 333,
+      "group": "credentials",
+      "tag": "strong",
+      "en": "CPMAI:",
+      "ar": "CPMAI:"
+    },
+    {
+      "id": 334,
+      "group": "credentials",
+      "tag": "span",
+      "en": "Core training completed; exam preparation in progress",
+      "ar": "اكتمل التدريب الأساسي؛ والتحضير للاختبار قيد التقدم"
+    },
+    {
+      "id": 335,
+      "group": "credentials",
+      "tag": "span",
+      "en": "PMI Essentials: Seven AI Project Patterns",
+      "ar": "PMI Essentials: Seven AI Project Patterns"
+    },
+    {
+      "id": 336,
+      "group": "credentials",
+      "tag": "span",
+      "en": "AI in Agile Delivery — PMI",
+      "ar": "AI in Agile Delivery — PMI"
+    },
+    {
+      "id": 337,
+      "group": "credentials",
+      "tag": "span",
+      "en": "Value Stream Management — PMI",
+      "ar": "Value Stream Management — PMI"
+    },
+    {
+      "id": 338,
+      "group": "credentials",
+      "tag": "span",
+      "en": "Talking to AI: Prompt Engineering for Project Managers — PMI",
+      "ar": "Talking to AI: Prompt Engineering for Project Managers — PMI"
+    },
+    {
+      "id": 339,
+      "group": "credentials",
+      "tag": "span",
+      "en": "Data Landscape of GenAI for Project Managers — PMI",
+      "ar": "Data Landscape of GenAI for Project Managers — PMI"
+    },
+    {
+      "id": 340,
+      "group": "credentials",
+      "tag": "span",
+      "en": "Practical Application of Gen AI for Project Managers — PMI",
+      "ar": "Practical Application of Gen AI for Project Managers — PMI"
+    },
+    {
+      "id": 341,
+      "group": "credentials",
+      "tag": "span",
+      "en": "Generative AI Overview for Project Managers — PMI",
+      "ar": "Generative AI Overview for Project Managers — PMI"
+    },
+    {
+      "id": 342,
+      "group": "credentials",
+      "tag": "span",
+      "en": "AI in Infrastructure & Construction Projects — PMI",
+      "ar": "AI in Infrastructure & Construction Projects — PMI"
+    },
+    {
+      "id": 343,
+      "group": "credentials",
+      "tag": "span",
+      "en": "Agile Metrics for Success — PMI",
+      "ar": "Agile Metrics for Success — PMI"
+    },
+    {
+      "id": 344,
+      "group": "credentials",
+      "tag": "span",
+      "en": "Disciplined Agile Foundations & Essentials — PMI",
+      "ar": "Disciplined Agile Foundations & Essentials — PMI"
+    },
+    {
+      "id": 345,
+      "group": "credentials",
+      "tag": "span",
+      "en": "Agile Project Management — Google",
+      "ar": "Agile Project Management — Google"
+    },
+    {
+      "id": 346,
+      "group": "credentials",
+      "tag": "span",
+      "en": "Agile Strategy for Competitive Advantage — Duke University",
+      "ar": "Agile Strategy for Competitive Advantage — Duke University"
+    },
+    {
+      "id": 347,
+      "group": "credentials",
+      "tag": "span",
+      "en": "Strategy and Innovation for Agile Organizations — Duke University",
+      "ar": "Strategy and Innovation for Agile Organizations — Duke University"
+    },
+    {
+      "id": 348,
+      "group": "credentials",
+      "tag": "span",
+      "en": "ITIL 4 Certification Specialization — EDUCBA",
+      "ar": "ITIL 4 Certification Specialization — EDUCBA"
+    },
+    {
+      "id": 349,
+      "group": "credentials",
+      "tag": "span",
+      "en": "Business Analysis & Business Continuity learning",
+      "ar": "Business Analysis & Business Continuity learning"
+    },
+    {
+      "id": 350,
+      "group": "contact",
+      "tag": "div",
+      "en": "Connect",
+      "ar": "تواصل"
+    },
+    {
+      "id": 351,
+      "group": "contact",
+      "tag": "h2",
+      "en": "Let's discuss enterprise delivery and governance.",
+      "ar": "لنتحدث عن تنفيذ المبادرات المؤسسية والحوكمة."
+    },
+    {
+      "id": 352,
+      "group": "contact",
+      "tag": "p",
+      "en": "Open to conversations about PMO leadership, program and portfolio management, digital transformation, IT governance and responsible AI governance.",
+      "ar": "أرحب بالتواصل بشأن قيادة مكاتب إدارة المشاريع وإدارة البرامج والمحافظ والتحول الرقمي وحوكمة تقنية المعلومات والذكاء الاصطناعي المسؤول."
+    },
+    {
+      "id": 353,
+      "group": "contact",
+      "tag": "a",
+      "en": "Email Mohamed ↗",
+      "ar": "راسل محمد ↗"
+    },
+    {
+      "id": 354,
+      "group": "contact",
+      "tag": "a",
+      "en": "Connect on LinkedIn ↗",
+      "ar": "تواصل عبر LinkedIn ↗"
+    },
+    {
+      "id": 355,
+      "group": "contact",
+      "tag": "a",
+      "en": "Download CV (PDF) ↗",
+      "ar": "تحميل السيرة الذاتية (PDF) ↗"
+    },
+    {
+      "id": 356,
+      "group": "contact",
+      "tag": "a",
+      "en": "Call · +971 55 302 6880",
+      "ar": "اتصل بي · +971 55 302 6880"
+    },
+    {
+      "id": 357,
+      "group": "contact",
+      "tag": "a",
+      "en": "mohamed.shalabi84@gmail.com",
+      "ar": "mohamed.shalabi84@gmail.com"
+    },
+    {
+      "id": 358,
+      "group": "contact",
+      "tag": "p",
+      "en": "Dubai, United Arab Emirates · +971 55 302 6880",
+      "ar": "دبي، الإمارات العربية المتحدة · +971 55 302 6880"
+    },
+    {
+      "id": 359,
+      "group": "Navigation / Header",
+      "tag": "span",
+      "en": "© 2026 Mohamed Shalabi. Executive Portfolio.",
+      "ar": "© 2026 محمد شلبي. الملف التنفيذي."
+    },
+    {
+      "id": 360,
+      "group": "Navigation / Header",
+      "tag": "a",
+      "en": "Back to top ↑",
+      "ar": "العودة للأعلى ↑"
+    },
+    {
+      "id": 361,
+      "group": "Navigation / Header",
+      "tag": "span",
+      "en": "In Dubai since July 2012",
+      "ar": "في دبي منذ يوليو 2012"
+    },
+    {
+      "id": 362,
+      "group": "Navigation / Header",
+      "tag": "strong",
+      "en": "18+",
+      "ar": "+18"
+    },
+    {
+      "id": 363,
+      "group": "Navigation / Header",
+      "tag": "strong",
+      "en": "14+",
+      "ar": "+14"
+    },
+    {
+      "id": 364,
+      "group": "Executive Governance Console — PMO",
+      "tag": "p",
+      "en": "Executive dashboards, stage gates, RAID oversight and KPI reporting that keep portfolio decisions traceable from intake to closure.",
+      "ar": "لوحات معلومات تنفيذية وبوابات مراحل ومتابعة RAID وتقارير مؤشرات أداء تُبقي قرارات المحفظة قابلة للتتبع من الطلب حتى الإغلاق."
+    },
+    {
+      "id": 365,
+      "group": "Executive Governance Console — PMO",
+      "tag": "li",
+      "en": "Portfolio governance",
+      "ar": "حوكمة المحافظ"
+    },
+    {
+      "id": 366,
+      "group": "Executive Governance Console — PMO",
+      "tag": "li",
+      "en": "Executive dashboards",
+      "ar": "لوحات المعلومات التنفيذية"
+    },
+    {
+      "id": 367,
+      "group": "Executive Governance Console — PMO",
+      "tag": "li",
+      "en": "RAID oversight",
+      "ar": "متابعة RAID"
+    },
+    {
+      "id": 368,
+      "group": "Executive Governance Console — PMO",
+      "tag": "li",
+      "en": "Stage gates",
+      "ar": "بوابات المراحل"
+    },
+    {
+      "id": 369,
+      "group": "Executive Governance Console — PMO",
+      "tag": "li",
+      "en": "KPI reporting",
+      "ar": "تقارير مؤشرات الأداء"
+    },
+    {
+      "id": 370,
+      "group": "Executive Governance Console — PMO",
+      "tag": "li",
+      "en": "Decision traceability",
+      "ar": "تتبع القرارات"
+    },
+    {
+      "id": 371,
+      "group": "Executive Governance Console — PMO",
+      "tag": "span",
+      "en": "Related initiatives",
+      "ar": "مبادرات ذات صلة"
+    },
+    {
+      "id": 372,
+      "group": "Executive Governance Console — PMO",
+      "tag": "a",
+      "en": "Explore governance projects ↗",
+      "ar": "استكشف مبادرات الحوكمة ↗"
+    },
+    {
+      "id": 373,
+      "group": "Executive Governance Console — Transformation",
+      "tag": "h3",
+      "en": "Transformation delivered through governance.",
+      "ar": "تحول رقمي يُسلَّم في إطار الحوكمة."
+    },
+    {
+      "id": 374,
+      "group": "Executive Governance Console — Transformation",
+      "tag": "p",
+      "en": "SAP Business One ERP modernization, Microsoft 365 and Azure adoption, business process improvement and enterprise technology delivery across multi-vendor programs.",
+      "ar": "تحديث نظام SAP Business One ERP وتبني Microsoft 365 وAzure وتحسين العمليات وتسليم التقنية المؤسسية عبر برامج متعددة الموردين."
+    },
+    {
+      "id": 375,
+      "group": "Executive Governance Console — Transformation",
+      "tag": "li",
+      "en": "SAP Business One ERP",
+      "ar": "SAP Business One ERP"
+    },
+    {
+      "id": 376,
+      "group": "Executive Governance Console — Transformation",
+      "tag": "li",
+      "en": "Microsoft 365 & Azure",
+      "ar": "Microsoft 365 وAzure"
+    },
+    {
+      "id": 377,
+      "group": "Executive Governance Console — Transformation",
+      "tag": "li",
+      "en": "Business process improvement",
+      "ar": "تحسين عمليات الأعمال"
+    },
+    {
+      "id": 378,
+      "group": "Executive Governance Console — Transformation",
+      "tag": "li",
+      "en": "Enterprise technology delivery",
+      "ar": "تسليم التقنية المؤسسية"
+    },
+    {
+      "id": 379,
+      "group": "Executive Governance Console — Transformation",
+      "tag": "li",
+      "en": "Multi-vendor coordination",
+      "ar": "تنسيق متعدد الموردين"
+    },
+    {
+      "id": 380,
+      "group": "Executive Governance Console — Transformation",
+      "tag": "li",
+      "en": "Change adoption",
+      "ar": "تبني التغيير"
+    },
+    {
+      "id": 381,
+      "group": "Executive Governance Console — Transformation",
+      "tag": "span",
+      "en": "Related initiatives",
+      "ar": "مبادرات ذات صلة"
+    },
+    {
+      "id": 382,
+      "group": "Executive Governance Console — Transformation",
+      "tag": "a",
+      "en": "Open SAP ERP case study ↗",
+      "ar": "افتح دراسة حالة SAP ERP ↗"
+    },
+    {
+      "id": 383,
+      "group": "Executive Governance Console — Responsible AI",
+      "tag": "h3",
+      "en": "Responsible AI is a governance discipline.",
+      "ar": "الذكاء الاصطناعي المسؤول مجال حوكمة."
+    },
+    {
+      "id": 384,
+      "group": "Executive Governance Console — Responsible AI",
+      "tag": "p",
+      "en": "AI governance policies, responsible adoption, AI risk assessment and human oversight integrated with the enterprise governance framework.",
+      "ar": "سياسات لحوكمة الذكاء الاصطناعي وتبنٍّ مسؤول وتقييم لمخاطره وإشراف بشري متكامل مع منظومة الحوكمة المؤسسية."
+    },
+    {
+      "id": 385,
+      "group": "Executive Governance Console — Responsible AI",
+      "tag": "li",
+      "en": "AI governance policies",
+      "ar": "سياسات حوكمة الذكاء الاصطناعي"
+    },
+    {
+      "id": 386,
+      "group": "Executive Governance Console — Responsible AI",
+      "tag": "li",
+      "en": "Responsible adoption",
+      "ar": "التبني المسؤول"
+    },
+    {
+      "id": 387,
+      "group": "Executive Governance Console — Responsible AI",
+      "tag": "li",
+      "en": "AI risk assessment",
+      "ar": "تقييم مخاطر الذكاء الاصطناعي"
+    },
+    {
+      "id": 388,
+      "group": "Executive Governance Console — Responsible AI",
+      "tag": "li",
+      "en": "Human oversight",
+      "ar": "الإشراف البشري"
+    },
+    {
+      "id": 389,
+      "group": "Executive Governance Console — Responsible AI",
+      "tag": "li",
+      "en": "Decision rights",
+      "ar": "صلاحيات اتخاذ القرار"
+    },
+    {
+      "id": 390,
+      "group": "Executive Governance Console — Responsible AI",
+      "tag": "li",
+      "en": "Enterprise governance integration",
+      "ar": "التكامل مع الحوكمة المؤسسية"
+    },
+    {
+      "id": 391,
+      "group": "Executive Governance Console — Responsible AI",
+      "tag": "span",
+      "en": "Related initiatives",
+      "ar": "مبادرات ذات صلة"
+    },
+    {
+      "id": 392,
+      "group": "Executive Governance Console — Responsible AI",
+      "tag": "a",
+      "en": "Explore AI governance ↗",
+      "ar": "استعرض حوكمة الذكاء الاصطناعي ↗"
+    },
+    {
+      "id": 393,
+      "group": "Executive Governance Console — Risk & Assurance",
+      "tag": "h3",
+      "en": "Risk, change and audit readiness.",
+      "ar": "المخاطر والتغيير والجاهزية للتدقيق."
+    },
+    {
+      "id": 394,
+      "group": "Executive Governance Console — Risk & Assurance",
+      "tag": "p",
+      "en": "Enterprise risk registers, IT audit coordination, change governance with CAB approvals, compliance controls and remediation tracking.",
+      "ar": "سجلات مخاطر مؤسسية وتنسيق لتدقيق تقنية المعلومات وحوكمة للتغيير مع اعتمادات CAB وضوابط للامتثال وتتبع للمعالجات."
+    },
+    {
+      "id": 395,
+      "group": "Executive Governance Console — Risk & Assurance",
+      "tag": "li",
+      "en": "Enterprise risk registers",
+      "ar": "سجلات المخاطر المؤسسية"
+    },
+    {
+      "id": 396,
+      "group": "Executive Governance Console — Risk & Assurance",
+      "tag": "li",
+      "en": "IT audit coordination",
+      "ar": "تنسيق تدقيق تقنية المعلومات"
+    },
+    {
+      "id": 397,
+      "group": "Executive Governance Console — Risk & Assurance",
+      "tag": "li",
+      "en": "Change governance",
+      "ar": "حوكمة التغيير"
+    },
+    {
+      "id": 398,
+      "group": "Executive Governance Console — Risk & Assurance",
+      "tag": "li",
+      "en": "CAB approvals",
+      "ar": "اعتمادات CAB"
+    },
+    {
+      "id": 399,
+      "group": "Executive Governance Console — Risk & Assurance",
+      "tag": "li",
+      "en": "Compliance controls",
+      "ar": "ضوابط الامتثال"
+    },
+    {
+      "id": 400,
+      "group": "Executive Governance Console — Risk & Assurance",
+      "tag": "li",
+      "en": "Remediation tracking",
+      "ar": "تتبع المعالجات"
+    },
+    {
+      "id": 401,
+      "group": "Executive Governance Console — Risk & Assurance",
+      "tag": "span",
+      "en": "Related initiatives",
+      "ar": "مبادرات ذات صلة"
+    },
+    {
+      "id": 402,
+      "group": "Executive Governance Console — Risk & Assurance",
+      "tag": "a",
+      "en": "Open ITSM & change case study ↗",
+      "ar": "افتح دراسة حالة ITSM والتغيير ↗"
+    }
+  ],
+  "profile": {
+    "phone": "+971553026880",
+    "email": "mohamed.shalabi84@gmail.com"
+  },
+  "media": {
+    "portrait": "images/portrait-640.webp"
+  }
+}

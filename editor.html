@@ -1,0 +1,48 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Portfolio Content Editor — Local</title><style>
+:root{font-family:Inter,system-ui,sans-serif;color:#f5f7fb;background:#091426}*{box-sizing:border-box}body{margin:0}header{background:#12233b;border-bottom:1px solid #38465c;padding:18px 24px;display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap}h1{font-size:21px;margin:0}small,.hint{color:#afbed0}main{max-width:1300px;margin:20px auto;padding:0 18px}.grid{display:grid;grid-template-columns:290px 1fr;gap:18px}.panel{background:#14263e;border:1px solid #33455d;border-radius:14px;padding:16px}input,select,textarea{background:#0c1a2d;border:1px solid #455773;color:white;border-radius:8px;padding:11px;width:100%;font:inherit}textarea{min-height:125px;resize:vertical;line-height:1.6}label{display:block;margin:12px 0 6px;font-size:13px;color:#d5dfeb}button,.btn{border:1px solid #d4ad68;background:#d4ad68;color:#081527;padding:10px 14px;border-radius:8px;font-weight:700;cursor:pointer}button.secondary{background:transparent;color:#ead1a2}.actions{display:flex;gap:8px;flex-wrap:wrap}.list{max-height:67vh;overflow:auto;margin-top:12px}.entry{display:block;width:100%;text-align:left;background:transparent;border:0;border-bottom:1px solid #33455d;color:#f5f7fb;border-radius:0;font-weight:400;padding:11px 6px}.entry.selected{background:#243e5a;color:#f4d59a}.entry span{display:block;font-size:11px;color:#aabbd1}.status{font-size:13px;color:#f1d6a1}.row{display:flex;gap:15px;flex-wrap:wrap}.row>*{flex:1}a{color:#e6c37f}iframe{width:100%;height:520px;border:1px solid #52617a;border-radius:10px;background:white}.hide{display:none}@media(max-width:850px){.grid{grid-template-columns:1fr}.list{max-height:250px}}</style></head><body>
+<header><div><h1>MS. | Portfolio Content Editor</h1><small>Local JSON editing · no CMS account · no external database</small></div><div class="actions"><button id="rebuild" class="secondary">Rebuild from page</button><button id="save" class="secondary">Save draft (this browser)</button><button id="export">Export content.json</button><button id="import" class="secondary">Import JSON</button><input type="file" id="file" accept=".json,application/json" hidden></div></header>
+<main><p class="hint">Edit English and Arabic fields. Export <b>content.json</b>, then upload that file to your GitHub repository. This editor does not publish directly or ask for GitHub credentials. Drafts are saved only in this browser.</p><div class="grid"><aside class="panel"><label for="group">Section / Project</label><select id="group"></select><label for="search">Find text</label><input id="search" placeholder="Search content…"><div class="list" id="list"></div></aside><section class="panel"><h2 id="heading">Select content</h2><div id="fields" class="hide"><label for="en">English</label><textarea id="en"></textarea><label for="ar">العربية — صياغة مهنية مناسبة للإمارات</label><textarea id="ar" dir="rtl"></textarea><div class="actions"><button id="previous" class="secondary">Previous</button><button id="next" class="secondary">Next</button></div></div><hr style="border:0;border-top:1px solid #33455d;margin:22px 0"><h3>Contact & Media</h3><div class="row"><div><label for="phone">Phone</label><input id="phone"></div><div><label for="email">Email</label><input id="email"></div></div><label for="portrait">Portrait image filename (upload image to GitHub separately)</label><input id="portrait" placeholder="mohamed-shalabi.jpg"><p id="status" class="status" role="status"></p><details><summary>Preview current published site</summary><p class="hint">Preview shows files currently served by this website. Export and replace content.json to preview changes after publishing. For a local preview, use a local HTTP server.</p><iframe src="./index.html" title="Portfolio preview"></iframe></details></section></div></main>
+<script>
+(()=>{'use strict';const $=id=>document.getElementById(id);let data=null,selected=0,dirty=false;const storage='ms-v14-editor-draft';
+const copy=x=>JSON.parse(JSON.stringify(x));function message(s){$('status').textContent=s}function groups(){return [...new Set(data.items.map(x=>x.group))]}
+function refreshGroups(){const current=$('group').value;$('group').replaceChildren(new Option('All sections','*'),...groups().map(g=>new Option(g,g)));$('group').value=[...$('group').options].some(o=>o.value===current)?current:'*'}
+function filtered(){const q=$('search').value.toLocaleLowerCase(),g=$('group').value;return data.items.filter(x=>(g==='*'||x.group===g)&&(!q||[x.en,x.ar,x.group].join(' ').toLocaleLowerCase().includes(q)))}
+function renderList(){const list=$('list');list.replaceChildren();filtered().forEach(it=>{const b=document.createElement('button');b.className='entry'+(it.id===selected?' selected':'');b.type='button';b.textContent=(it.en||it.ar||'(empty)').slice(0,90);const s=document.createElement('span');s.textContent='#'+it.id+' · '+it.group;b.append(s);b.onclick=()=>select(it.id);list.append(b)});}
+function select(id){selected=id;const it=data.items.find(x=>x.id===id);if(!it)return;$('fields').classList.remove('hide');$('heading').textContent='Edit #'+id+' · '+it.group;$('en').value=it.en;$('ar').value=it.ar;renderList()}
+function update(){const it=data.items.find(x=>x.id===selected);if(!it)return;it.en=$('en').value;it.ar=$('ar').value;dirty=true;message('Unsaved changes — export content.json when ready.');renderList()}
+function init(d){if(!d||!Array.isArray(d.items)||d.items.length<100)throw Error('Invalid portfolio content JSON');data=copy(d);data.profile??={};data.media??={};$('phone').value=data.profile.phone||'';$('email').value=data.profile.email||'';$('portrait').value=data.media.portrait||'';refreshGroups();select(data.items[0].id);dirty=false;message('Loaded '+data.items.length+' bilingual content entries.');}
+$('en').oninput=update;$('ar').oninput=update;$('search').oninput=renderList;$('group').onchange=renderList;
+for(const id of ['phone','email','portrait'])$(id).oninput=()=>{data.profile.phone=$('phone').value;data.profile.email=$('email').value;data.media.portrait=$('portrait').value;dirty=true;message('Contact/media settings changed. Export to publish.')};
+function move(dir){const a=filtered();const i=a.findIndex(x=>x.id===selected);if(a.length)select(a[(i+dir+a.length)%a.length].id)}$('previous').onclick=()=>move(-1);$('next').onclick=()=>move(1);
+$('save').onclick=()=>{try{localStorage.setItem(storage,JSON.stringify(data));dirty=false;message('Draft saved in this browser only. Not published.')}catch(e){message('Unable to save local draft: '+e.message)}};
+$('export').onclick=()=>{const blob=new Blob([JSON.stringify(data,null,2)],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='content.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);message('content.json downloaded. Upload it to GitHub to publish.');};
+$('rebuild').onclick=async()=>{
+  try{
+    message('Reading published index.html…');
+    const html=await (await fetch('./index.html',{cache:'no-store'})).text();
+    const doc=new DOMParser().parseFromString(html,'text/html');
+    const els=[...doc.querySelectorAll('[data-en][data-ar]')];
+    if(!els.length)throw Error('No bilingual elements found in index.html');
+    const norm=s=>String(s==null?'':s).replace(/&amp;/g,'&').replace(/&nbsp;/g,' ').replace(/&quot;/g,'"').replace(/&#39;|&apos;/g,"'").replace(/\s+/g,' ').trim();
+    /* Keep any existing Arabic wording for English strings found in the current file. */
+    const existing=new Map();
+    for(const it of data.items){if(typeof it.en!=='string')continue;const k=norm(it.en);if(k&&!existing.has(k))existing.set(k,it)}
+    let kept=0;
+    const items=els.map((el,i)=>{
+      const en=norm(el.dataset.en),ar=norm(el.dataset.ar)||en;
+      const prev=existing.get(en);if(prev)kept++;
+      const section=el.closest('section,header,footer');
+      let group='Page';
+      if(section){const head=section.querySelector('.kicker,h2,h1');group=(section.id?section.id+' — ':'')+(head?head.textContent.trim().slice(0,42):section.tagName.toLowerCase())}
+      return {id:i,group:group,tag:el.tagName.toLowerCase(),en:en,ar:ar};
+    });
+    data={version:1,items:items,profile:data.profile||{},media:data.media||{}};
+    dirty=true;refreshGroups();select(items[0].id);
+    message('Rebuilt '+items.length+' aligned entries ('+kept+' reused existing wording). Export content.json and replace it in GitHub.');
+  }catch(e){message('Rebuild failed: '+e.message+' — serve this editor over HTTP and keep index.html beside it.')}
+};
+$('import').onclick=()=>$('file').click();$('file').onchange=async()=>{try{init(JSON.parse(await $('file').files[0].text()));message('JSON imported. Export when ready to publish.')}catch(e){message('Import error: '+e.message)}};
+window.onbeforeunload=()=>dirty?'You have unexported changes.':undefined;
+fetch('./content.json').then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(d=>{let draft;try{draft=localStorage.getItem(storage)}catch(e){}init(draft?JSON.parse(draft):d);if(draft)message('Restored browser draft. Not published.');}).catch(e=>message('Open this editor through an HTTP server or GitHub Pages (not file://). '+e.message));
+})();
+</script><script src="https://www.genspark.ai/sandbox_inspect.js"></script><script src="https://www.genspark.ai/preview_badge.js" data-gs-lang="en" defer></script></body></html>
